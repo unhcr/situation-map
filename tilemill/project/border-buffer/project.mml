@@ -1,0 +1,50 @@
+{
+  "bounds": [
+    -21.0059,
+    4.9158,
+    11.9971,
+    28.1495
+  ],
+  "center": [
+    -3.4717,
+    17.3926,
+    5
+  ],
+  "format": "png",
+  "interactivity": false,
+  "minzoom": 3,
+  "maxzoom": 12,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "linestring",
+      "extent": [
+        -13.60923240533601,
+        8.811763406258748,
+        5.583105206018094,
+        26.210199168528938
+      ],
+      "id": "buffer",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/natesmith/github/unhcr-situation/data/unhcr-border-buffers-mali.geojson",
+        "id": "buffer",
+        "project": "border-buffer",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "buffer"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "_basemap": "http://a.tiles.mapbox.com/v3/nate.map-szf211bp.jsonp",
+  "name": "",
+  "description": "",
+  "attribution": ""
+}

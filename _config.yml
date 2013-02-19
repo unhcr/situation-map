@@ -1,0 +1,7 @@
+auto: true
+server: true
+baseurl: /situation-map
+exclude: 
+- design-source
+- working-folder
+- tilemill

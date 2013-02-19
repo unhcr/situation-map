@@ -1,0 +1,512 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SOVEREIGNT": "Netherlands", "SOV_A3": "NL1", "ADMIN": "Aruba", "ADM0_A3": "ABW", "NAME": "Aruba", "ABBREV": "Aruba", "NAME_FORMA": "", "TERR_": "Neth.", "NAME_SORT": "Aruba", "ISO_A2": "AW", "ISO_A3": "ABW", "ISO_N3": 533.0 }, "geometry": { "type": "Point", "coordinates": [ -69.973446940104878, 12.51677787229108 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SOVEREIGNT": "Afghanistan", "SOV_A3": "AFG", "ADMIN": "Afghanistan", "ADM0_A3": "AFG", "NAME": "Afghanistan", "ABBREV": "Afg.", "NAME_FORMA": "Islamic State of Afghanistan", "TERR_": "", "NAME_SORT": "Afghanistan", "ISO_A2": "AF", "ISO_A3": "AFG", "ISO_N3": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 66.008446866070997, 33.836266687216522 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SOVEREIGNT": "Angola", "SOV_A3": "AGO", "ADMIN": "Angola", "ADM0_A3": "AGO", "NAME": "Angola", "ABBREV": "Ang.", "NAME_FORMA": "Republic of Angola", "TERR_": "", "NAME_SORT": "Angola", "ISO_A2": "AO", "ISO_A3": "AGO", "ISO_N3": 24.0 }, "geometry": { "type": "Point", "coordinates": [ 17.536457574592003, -12.291179979636828 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Anguilla", "ADM0_A3": "AIA", "NAME": "Anguilla", "ABBREV": "Ang.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Anguilla", "ISO_A2": "AI", "ISO_A3": "AIA", "ISO_N3": 660.0 }, "geometry": { "type": "Point", "coordinates": [ -63.060821729244623, 18.225596204264686 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SOVEREIGNT": "Albania", "SOV_A3": "ALB", "ADMIN": "Albania", "ADM0_A3": "ALB", "NAME": "Albania", "ABBREV": "Alb.", "NAME_FORMA": "Republic of Albania", "TERR_": "", "NAME_SORT": "Albania", "ISO_A2": "AL", "ISO_A3": "ALB", "ISO_N3": 8.0 }, "geometry": { "type": "Point", "coordinates": [ 20.053988947397254, 41.142582229556822 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "SOVEREIGNT": "Finland", "SOV_A3": "FI1", "ADMIN": "Aland", "ADM0_A3": "ALD", "NAME": "Aland", "ABBREV": "Aland", "NAME_FORMA": "Åland Islands", "TERR_": "Fin.", "NAME_SORT": "Aland", "ISO_A2": "-99", "ISO_A3": "ALA", "ISO_N3": 248.0 }, "geometry": { "type": "Point", "coordinates": [ 20.037148429660366, 60.207333987216188 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "SOVEREIGNT": "Andorra", "SOV_A3": "AND", "ADMIN": "Andorra", "ADM0_A3": "AND", "NAME": "Andorra", "ABBREV": "And.", "NAME_FORMA": "Principality of Andorra", "TERR_": "", "NAME_SORT": "Andorra", "ISO_A2": "AD", "ISO_A3": "AND", "ISO_N3": 20.0 }, "geometry": { "type": "Point", "coordinates": [ 1.560756240792131, 42.541326524936338 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "SOVEREIGNT": "United Arab Emirates", "SOV_A3": "ARE", "ADMIN": "United Arab Emirates", "ADM0_A3": "ARE", "NAME": "United Arab Emirates", "ABBREV": "U.A.E.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "United Arab Emirates", "ISO_A2": "AE", "ISO_A3": "ARE", "ISO_N3": 784.0 }, "geometry": { "type": "Point", "coordinates": [ 54.301824067483409, 23.908213301511161 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "SOVEREIGNT": "Argentina", "SOV_A3": "ARG", "ADMIN": "Argentina", "ADM0_A3": "ARG", "NAME": "Argentina", "ABBREV": "Arg.", "NAME_FORMA": "Argentine Republic", "TERR_": "", "NAME_SORT": "Argentina", "ISO_A2": "AR", "ISO_A3": "ARG", "ISO_N3": 32.0 }, "geometry": { "type": "Point", "coordinates": [ -65.178217919452308, -35.382696290444265 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "SOVEREIGNT": "Armenia", "SOV_A3": "ARM", "ADMIN": "Armenia", "ADM0_A3": "ARM", "NAME": "Armenia", "ABBREV": "Arm.", "NAME_FORMA": "Republic of Armenia", "TERR_": "", "NAME_SORT": "Armenia", "ISO_A2": "AM", "ISO_A3": "ARM", "ISO_N3": 51.0 }, "geometry": { "type": "Point", "coordinates": [ 44.932301218023959, 40.288134154044691 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "SOVEREIGNT": "United States of America", "SOV_A3": "US1", "ADMIN": "American Samoa", "ADM0_A3": "ASM", "NAME": "American Samoa", "ABBREV": "Am. Samoa", "NAME_FORMA": "Territory of American Samoa", "TERR_": "U.S.A.", "NAME_SORT": "American Samoa", "ISO_A2": "AS", "ISO_A3": "ASM", "ISO_N3": 16.0 }, "geometry": { "type": "Point", "coordinates": [ -170.397589777905011, -14.254984400272292 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "SOVEREIGNT": "Antarctica", "SOV_A3": "ATA", "ADMIN": "Antarctica", "ADM0_A3": "ATA", "NAME": "Antarctica", "ABBREV": "Ant.", "NAME_FORMA": "", "TERR_": "Multiple claims held in abeyance", "NAME_SORT": "Antarctica", "ISO_A2": "AQ", "ISO_A3": "ATA", "ISO_N3": 10.0 }, "geometry": { "type": "Point", "coordinates": [ 28.308940720467145, -77.587514711345037 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "SOVEREIGNT": "Australia", "SOV_A3": "AU1", "ADMIN": "Ashmore and Cartier Islands", "ADM0_A3": "ATC", "NAME": "Ashmore and Cartier Is.", "ABBREV": "A.C.Is.", "NAME_FORMA": "Territory of Ashmore and Cartier Islands", "TERR_": "", "NAME_SORT": "Ashmore and Cartier Islands", "ISO_A2": "AU", "ISO_A3": "AUS", "ISO_N3": 36.0 }, "geometry": { "type": "Point", "coordinates": [ 123.585689939126624, -12.432525563621898 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "French Southern and Antarctic Lands", "ADM0_A3": "ATF", "NAME": "Fr. S. and Antarctic Lands", "ABBREV": "Fr. S.A.L.", "NAME_FORMA": "Territory of the French Southern and Antarctic Lands", "TERR_": "Fr.", "NAME_SORT": "French Southern and Antarctic Lands", "ISO_A2": "TF", "ISO_A3": "ATF", "ISO_N3": 260.0 }, "geometry": { "type": "Point", "coordinates": [ 68.991181548174509, -49.062703312899266 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "SOVEREIGNT": "Antigua and Barbuda", "SOV_A3": "ATG", "ADMIN": "Antigua and Barbuda", "ADM0_A3": "ATG", "NAME": "Antigua and Barb.", "ABBREV": "Ant.B.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Antigua and Barbuda", "ISO_A2": "AG", "ISO_A3": "ATG", "ISO_N3": 28.0 }, "geometry": { "type": "Point", "coordinates": [ -61.790996623106111, 17.284293680435894 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "SOVEREIGNT": "Australia", "SOV_A3": "AU1", "ADMIN": "Australia", "ADM0_A3": "AUS", "NAME": "Australia", "ABBREV": "Auz.", "NAME_FORMA": "Commonwealth of Australia", "TERR_": "", "NAME_SORT": "Australia", "ISO_A2": "AU", "ISO_A3": "AUS", "ISO_N3": 36.0 }, "geometry": { "type": "Point", "coordinates": [ 134.492571853810631, -25.7323647272258 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "SOVEREIGNT": "Austria", "SOV_A3": "AUT", "ADMIN": "Austria", "ADM0_A3": "AUT", "NAME": "Austria", "ABBREV": "Aust.", "NAME_FORMA": "Republic of Austria", "TERR_": "", "NAME_SORT": "Austria", "ISO_A2": "AT", "ISO_A3": "AUT", "ISO_N3": 40.0 }, "geometry": { "type": "Point", "coordinates": [ 14.130672889048629, 47.585656923121519 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "SOVEREIGNT": "Azerbaijan", "SOV_A3": "AZE", "ADMIN": "Azerbaijan", "ADM0_A3": "AZE", "NAME": "Azerbaijan", "ABBREV": "Aze.", "NAME_FORMA": "Republic of Azerbaijan", "TERR_": "", "NAME_SORT": "Azerbaijan", "ISO_A2": "AZ", "ISO_A3": "AZE", "ISO_N3": 31.0 }, "geometry": { "type": "Point", "coordinates": [ 47.542393848190756, 40.289043832770083 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "SOVEREIGNT": "Burundi", "SOV_A3": "BDI", "ADMIN": "Burundi", "ADM0_A3": "BDI", "NAME": "Burundi", "ABBREV": "Bur.", "NAME_FORMA": "Republic of Burundi", "TERR_": "", "NAME_SORT": "Burundi", "ISO_A2": "BI", "ISO_A3": "BDI", "ISO_N3": 108.0 }, "geometry": { "type": "Point", "coordinates": [ 29.87508269441755, -3.357425336505814 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "SOVEREIGNT": "Belgium", "SOV_A3": "BEL", "ADMIN": "Belgium", "ADM0_A3": "BEL", "NAME": "Belgium", "ABBREV": "Belg.", "NAME_FORMA": "Kingdom of Belgium", "TERR_": "", "NAME_SORT": "Belgium", "ISO_A2": "BE", "ISO_A3": "BEL", "ISO_N3": 56.0 }, "geometry": { "type": "Point", "coordinates": [ 4.640121376164858, 50.637406132777983 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "SOVEREIGNT": "Benin", "SOV_A3": "BEN", "ADMIN": "Benin", "ADM0_A3": "BEN", "NAME": "Benin", "ABBREV": "Benin", "NAME_FORMA": "Republic of Benin", "TERR_": "", "NAME_SORT": "Benin", "ISO_A2": "BJ", "ISO_A3": "BEN", "ISO_N3": 204.0 }, "geometry": { "type": "Point", "coordinates": [ 2.328737628199451, 9.641208325550931 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "SOVEREIGNT": "Burkina Faso", "SOV_A3": "BFA", "ADMIN": "Burkina Faso", "ADM0_A3": "BFA", "NAME": "Burkina Faso", "ABBREV": "B.F.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Burkina Faso", "ISO_A2": "BF", "ISO_A3": "BFA", "ISO_N3": 854.0 }, "geometry": { "type": "Point", "coordinates": [ -1.755591127230114, 12.269560156411238 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "SOVEREIGNT": "Bangladesh", "SOV_A3": "BGD", "ADMIN": "Bangladesh", "ADM0_A3": "BGD", "NAME": "Bangladesh", "ABBREV": "Bang.", "NAME_FORMA": "People's Republic of Bangladesh", "TERR_": "", "NAME_SORT": "Bangladesh", "ISO_A2": "BD", "ISO_A3": "BGD", "ISO_N3": 50.0 }, "geometry": { "type": "Point", "coordinates": [ 90.243389513085063, 23.842846133928607 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "SOVEREIGNT": "Bulgaria", "SOV_A3": "BGR", "ADMIN": "Bulgaria", "ADM0_A3": "BGR", "NAME": "Bulgaria", "ABBREV": "Bulg.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Bulgaria", "ISO_A2": "BG", "ISO_A3": "BGR", "ISO_N3": 100.0 }, "geometry": { "type": "Point", "coordinates": [ 25.217738862229737, 42.768539873041924 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "SOVEREIGNT": "Bahrain", "SOV_A3": "BHR", "ADMIN": "Bahrain", "ADM0_A3": "BHR", "NAME": "Bahrain", "ABBREV": "Bahr.", "NAME_FORMA": "State of Bahrain", "TERR_": "", "NAME_SORT": "Bahrain", "ISO_A2": "BH", "ISO_A3": "BHR", "ISO_N3": 48.0 }, "geometry": { "type": "Point", "coordinates": [ 50.544355990800454, 26.048945259971578 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "SOVEREIGNT": "The Bahamas", "SOV_A3": "BHS", "ADMIN": "The Bahamas", "ADM0_A3": "BHS", "NAME": "Bahamas", "ABBREV": "Bhs.", "NAME_FORMA": "Commonwealth of the Bahamas", "TERR_": "", "NAME_SORT": "Bahamas, The", "ISO_A2": "BS", "ISO_A3": "BHS", "ISO_N3": 44.0 }, "geometry": { "type": "Point", "coordinates": [ -76.550651817101468, 24.22180080122223 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "SOVEREIGNT": "Bosnia and Herzegovina", "SOV_A3": "BIH", "ADMIN": "Bosnia and Herzegovina", "ADM0_A3": "BIH", "NAME": "Bosnia and Herz.", "ABBREV": "B.H.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Bosnia and Herzegovina", "ISO_A2": "BA", "ISO_A3": "BIH", "ISO_N3": 70.0 }, "geometry": { "type": "Point", "coordinates": [ 17.773404733731027, 44.17173864065574 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "Saint Barthelemy", "ADM0_A3": "BLM", "NAME": "St. Barthelemy", "ABBREV": "St. B.", "NAME_FORMA": "", "TERR_": "Fr.", "NAME_SORT": "Saint Barthelemy", "ISO_A2": "BL", "ISO_A3": "BLM", "ISO_N3": 652.0 }, "geometry": { "type": "Point", "coordinates": [ -62.831877097533038, 17.905425837531769 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "SOVEREIGNT": "Belarus", "SOV_A3": "BLR", "ADMIN": "Belarus", "ADM0_A3": "BLR", "NAME": "Belarus", "ABBREV": "Bela.", "NAME_FORMA": "Republic of Belarus", "TERR_": "", "NAME_SORT": "Belarus", "ISO_A2": "BY", "ISO_A3": "BLR", "ISO_N3": 112.0 }, "geometry": { "type": "Point", "coordinates": [ 28.033566459763506, 53.531880482080908 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "SOVEREIGNT": "Belize", "SOV_A3": "BLZ", "ADMIN": "Belize", "ADM0_A3": "BLZ", "NAME": "Belize", "ABBREV": "Belize", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Belize", "ISO_A2": "BZ", "ISO_A3": "BLZ", "ISO_N3": 84.0 }, "geometry": { "type": "Point", "coordinates": [ -88.704834508884247, 17.200815492831889 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Bermuda", "ADM0_A3": "BMU", "NAME": "Bermuda", "ABBREV": "Berm.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Bermuda", "ISO_A2": "BM", "ISO_A3": "BMU", "ISO_N3": 60.0 }, "geometry": { "type": "Point", "coordinates": [ -64.755854914830707, 32.310456534825811 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "SOVEREIGNT": "Bolivia", "SOV_A3": "BOL", "ADMIN": "Bolivia", "ADM0_A3": "BOL", "NAME": "Bolivia", "ABBREV": "Bolivia", "NAME_FORMA": "Republic of Bolivia", "TERR_": "", "NAME_SORT": "Bolivia", "ISO_A2": "BO", "ISO_A3": "BOL", "ISO_N3": 68.0 }, "geometry": { "type": "Point", "coordinates": [ -64.684753591329809, -16.706876766104159 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "SOVEREIGNT": "Brazil", "SOV_A3": "BRA", "ADMIN": "Brazil", "ADM0_A3": "BRA", "NAME": "Brazil", "ABBREV": "Brazil", "NAME_FORMA": "Federative Republic of Brazil", "TERR_": "", "NAME_SORT": "Brazil", "ISO_A2": "BR", "ISO_A3": "BRA", "ISO_N3": 76.0 }, "geometry": { "type": "Point", "coordinates": [ -53.093972000836935, -10.782780815427127 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "SOVEREIGNT": "Barbados", "SOV_A3": "BRB", "ADMIN": "Barbados", "ADM0_A3": "BRB", "NAME": "Barbados", "ABBREV": "Barb.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Barbados", "ISO_A2": "BB", "ISO_A3": "BRB", "ISO_N3": 52.0 }, "geometry": { "type": "Point", "coordinates": [ -59.560478527160988, 13.180864407063961 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "SOVEREIGNT": "Brunei", "SOV_A3": "BRN", "ADMIN": "Brunei", "ADM0_A3": "BRN", "NAME": "Brunei", "ABBREV": "Brunei", "NAME_FORMA": "Negara Brunei Darussalam", "TERR_": "", "NAME_SORT": "Brunei", "ISO_A2": "BN", "ISO_A3": "BRN", "ISO_N3": 96.0 }, "geometry": { "type": "Point", "coordinates": [ 114.727354494595559, 4.516337561100253 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "SOVEREIGNT": "Bhutan", "SOV_A3": "BTN", "ADMIN": "Bhutan", "ADM0_A3": "BTN", "NAME": "Bhutan", "ABBREV": "Bhutan", "NAME_FORMA": "Kingdom of Bhutan", "TERR_": "", "NAME_SORT": "Bhutan", "ISO_A2": "BT", "ISO_A3": "BTN", "ISO_N3": 64.0 }, "geometry": { "type": "Point", "coordinates": [ 90.403947699733692, 27.410592558408652 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "SOVEREIGNT": "Botswana", "SOV_A3": "BWA", "ADMIN": "Botswana", "ADM0_A3": "BWA", "NAME": "Botswana", "ABBREV": "Bwa.", "NAME_FORMA": "Republic of Botswana", "TERR_": "", "NAME_SORT": "Botswana", "ISO_A2": "BW", "ISO_A3": "BWA", "ISO_N3": 72.0 }, "geometry": { "type": "Point", "coordinates": [ 23.798986732773677, -22.185772321004688 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "SOVEREIGNT": "Central African Republic", "SOV_A3": "CAF", "ADMIN": "Central African Republic", "ADM0_A3": "CAF", "NAME": "Central African Rep.", "ABBREV": "C.A.R.", "NAME_FORMA": "Central African Republic", "TERR_": "", "NAME_SORT": "Central African Republic", "ISO_A2": "CF", "ISO_A3": "CAF", "ISO_N3": 140.0 }, "geometry": { "type": "Point", "coordinates": [ 20.46480871651293, 6.566321373817874 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "SOVEREIGNT": "Canada", "SOV_A3": "CAN", "ADMIN": "Canada", "ADM0_A3": "CAN", "NAME": "Canada", "ABBREV": "Can.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Canada", "ISO_A2": "CA", "ISO_A3": "CAN", "ISO_N3": 124.0 }, "geometry": { "type": "Point", "coordinates": [ -98.316062946653275, 61.373126019152949 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "SOVEREIGNT": "Switzerland", "SOV_A3": "CHE", "ADMIN": "Switzerland", "ADM0_A3": "CHE", "NAME": "Switzerland", "ABBREV": "Switz.", "NAME_FORMA": "Swiss Confederation", "TERR_": "", "NAME_SORT": "Switzerland", "ISO_A2": "CH", "ISO_A3": "CHE", "ISO_N3": 756.0 }, "geometry": { "type": "Point", "coordinates": [ 8.21538259993147, 46.799022933494527 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "SOVEREIGNT": "Chile", "SOV_A3": "CHL", "ADMIN": "Chile", "ADM0_A3": "CHL", "NAME": "Chile", "ABBREV": "Chile", "NAME_FORMA": "Republic of Chile", "TERR_": "", "NAME_SORT": "Chile", "ISO_A2": "CL", "ISO_A3": "CHL", "ISO_N3": 152.0 }, "geometry": { "type": "Point", "coordinates": [ -71.355119246457193, -37.696071607405898 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "SOVEREIGNT": "China", "SOV_A3": "CH1", "ADMIN": "China", "ADM0_A3": "CHN", "NAME": "China", "ABBREV": "China", "NAME_FORMA": "People's Republic of China", "TERR_": "", "NAME_SORT": "China", "ISO_A2": "CN", "ISO_A3": "CHN", "ISO_N3": 156.0 }, "geometry": { "type": "Point", "coordinates": [ 103.824910426213222, 36.561276542491711 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "SOVEREIGNT": "Ivory Coast", "SOV_A3": "CIV", "ADMIN": "Ivory Coast", "ADM0_A3": "CIV", "NAME": "Ivory Coast", "ABBREV": "I.C.", "NAME_FORMA": "Republic of Cote D'Ivoire", "TERR_": "", "NAME_SORT": "Ivory Coast (Côte d'Ivoire)", "ISO_A2": "CI", "ISO_A3": "CIV", "ISO_N3": 384.0 }, "geometry": { "type": "Point", "coordinates": [ -5.569010555050067, 7.627839044475537 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "Clipperton Island", "ADM0_A3": "CLP", "NAME": "Clipperton I.", "ABBREV": "Clp. I.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Clipperton Island", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ -109.220676746600418, 10.297358790095998 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "SOVEREIGNT": "Cameroon", "SOV_A3": "CMR", "ADMIN": "Cameroon", "ADM0_A3": "CMR", "NAME": "Cameroon", "ABBREV": "Cam.", "NAME_FORMA": "Republic of Cameroon", "TERR_": "", "NAME_SORT": "Cameroon", "ISO_A2": "CM", "ISO_A3": "CMR", "ISO_N3": 120.0 }, "geometry": { "type": "Point", "coordinates": [ 12.737083385518794, 5.693127729591562 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "SOVEREIGNT": "Cyprus No Mans Area", "SOV_A3": "CNM", "ADMIN": "Cyprus No Mans Area", "ADM0_A3": "CNM", "NAME": "", "ABBREV": "", "NAME_FORMA": "Cyprus No Mans Land", "TERR_": "", "NAME_SORT": "Cyprus No Mans Area", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 33.25859702114542, 35.101915971693835 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "SOVEREIGNT": "Democratic Republic of the Congo", "SOV_A3": "COD", "ADMIN": "Democratic Republic of the Congo", "ADM0_A3": "COD", "NAME": "Congo (Kinshasa)", "ABBREV": "D.R.C.", "NAME_FORMA": "Democratic Republic of the Congo", "TERR_": "", "NAME_SORT": "Congo (Kinshasa)", "ISO_A2": "CD", "ISO_A3": "COD", "ISO_N3": 180.0 }, "geometry": { "type": "Point", "coordinates": [ 23.645848650060834, -2.879592934880224 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "SOVEREIGNT": "Republic of the Congo", "SOV_A3": "COG", "ADMIN": "Republic of the Congo", "ADM0_A3": "COG", "NAME": "Congo (Brazzaville)", "ABBREV": "Rep. Congo", "NAME_FORMA": "Republic of the Congo", "TERR_": "", "NAME_SORT": "Congo (Brazzaville)", "ISO_A2": "CG", "ISO_A3": "COG", "ISO_N3": 178.0 }, "geometry": { "type": "Point", "coordinates": [ 15.218685730994688, -0.838723906401141 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "SOVEREIGNT": "New Zealand", "SOV_A3": "NZ1", "ADMIN": "Cook Islands", "ADM0_A3": "COK", "NAME": "Cook Is.", "ABBREV": "Cook Is.", "NAME_FORMA": "", "TERR_": "Assoc. with N.Z.", "NAME_SORT": "Cook Islands", "ISO_A2": "CK", "ISO_A3": "COK", "ISO_N3": 184.0 }, "geometry": { "type": "Point", "coordinates": [ -158.781436610205617, -19.818704464225583 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "SOVEREIGNT": "Colombia", "SOV_A3": "COL", "ADMIN": "Colombia", "ADM0_A3": "COL", "NAME": "Colombia", "ABBREV": "Col.", "NAME_FORMA": "Republic of Colombia", "TERR_": "", "NAME_SORT": "Colombia", "ISO_A2": "CO", "ISO_A3": "COL", "ISO_N3": 170.0 }, "geometry": { "type": "Point", "coordinates": [ -73.08018680567892, 3.910955904061199 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "SOVEREIGNT": "Comoros", "SOV_A3": "COM", "ADMIN": "Comoros", "ADM0_A3": "COM", "NAME": "Comoros", "ABBREV": "Com.", "NAME_FORMA": "Federal Islamic Republic of the Comoros", "TERR_": "", "NAME_SORT": "Comoros", "ISO_A2": "KM", "ISO_A3": "COM", "ISO_N3": 174.0 }, "geometry": { "type": "Point", "coordinates": [ 43.680788333339869, -11.884400659186625 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "SOVEREIGNT": "Cape Verde", "SOV_A3": "CPV", "ADMIN": "Cape Verde", "ADM0_A3": "CPV", "NAME": "Cape Verde", "ABBREV": "C.Vd.", "NAME_FORMA": "Republic of Cape Verde", "TERR_": "", "NAME_SORT": "Cape Verde", "ISO_A2": "CV", "ISO_A3": "CPV", "ISO_N3": 132.0 }, "geometry": { "type": "Point", "coordinates": [ -23.966613028711926, 15.935901678804012 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "SOVEREIGNT": "Costa Rica", "SOV_A3": "CRI", "ADMIN": "Costa Rica", "ADM0_A3": "CRI", "NAME": "Costa Rica", "ABBREV": "C.R.", "NAME_FORMA": "Republic of Costa Rica", "TERR_": "", "NAME_SORT": "Costa Rica", "ISO_A2": "CR", "ISO_A3": "CRI", "ISO_N3": 188.0 }, "geometry": { "type": "Point", "coordinates": [ -84.193238166659512, 9.973604620385593 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "SOVEREIGNT": "Australia", "SOV_A3": "AU1", "ADMIN": "Coral Sea Islands", "ADM0_A3": "CSI", "NAME": "Coral Sea Is.", "ABBREV": "C.S.I.", "NAME_FORMA": "Coral Sea Islands Territory", "TERR_": "", "NAME_SORT": "Coral Sea Islands", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 151.254885422576365, -18.506322262125746 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "SOVEREIGNT": "Cuba", "SOV_A3": "CUB", "ADMIN": "Cuba", "ADM0_A3": "CUB", "NAME": "Cuba", "ABBREV": "Cuba", "NAME_FORMA": "Republic of Cuba", "TERR_": "", "NAME_SORT": "Cuba", "ISO_A2": "CU", "ISO_A3": "CUB", "ISO_N3": 192.0 }, "geometry": { "type": "Point", "coordinates": [ -79.033303186942547, 21.624692022139836 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "SOVEREIGNT": "Netherlands", "SOV_A3": "NL1", "ADMIN": "Curaçao", "ADM0_A3": "CUW", "NAME": "Curaçao", "ABBREV": "Cur.", "NAME_FORMA": "", "TERR_": "Neth.", "NAME_SORT": "Curaçao", "ISO_A2": "CW", "ISO_A3": "CUW", "ISO_N3": 531.0 }, "geometry": { "type": "Point", "coordinates": [ -68.970527528622227, 12.193622401850156 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Cayman Islands", "ADM0_A3": "CYM", "NAME": "Cayman Is.", "ABBREV": "Cym. Is.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Cayman Islands", "ISO_A2": "KY", "ISO_A3": "CYM", "ISO_N3": 136.0 }, "geometry": { "type": "Point", "coordinates": [ -80.870171643662431, 19.433951490182849 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "SOVEREIGNT": "Northern Cyprus", "SOV_A3": "CYN", "ADMIN": "Northern Cyprus", "ADM0_A3": "CYN", "NAME": "N. Cyprus", "ABBREV": "N. Cy.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Cyprus, Northern", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 33.594632017836723, 35.273845501251706 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "SOVEREIGNT": "Cyprus", "SOV_A3": "CYP", "ADMIN": "Cyprus", "ADM0_A3": "CYP", "NAME": "Cyprus", "ABBREV": "Cyp.", "NAME_FORMA": "Republic of Cyprus", "TERR_": "", "NAME_SORT": "Cyprus", "ISO_A2": "CY", "ISO_A3": "CYP", "ISO_N3": 196.0 }, "geometry": { "type": "Point", "coordinates": [ 32.990227707340736, 34.914997775408082 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "SOVEREIGNT": "Czech Republic", "SOV_A3": "CZE", "ADMIN": "Czech Republic", "ADM0_A3": "CZE", "NAME": "Czech Rep.", "ABBREV": "Cz. Rep.", "NAME_FORMA": "Czech Republic", "TERR_": "", "NAME_SORT": "Czech Republic", "ISO_A2": "CZ", "ISO_A3": "CZE", "ISO_N3": 203.0 }, "geometry": { "type": "Point", "coordinates": [ 15.314103101909526, 49.732448205189307 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "SOVEREIGNT": "Germany", "SOV_A3": "DEU", "ADMIN": "Germany", "ADM0_A3": "DEU", "NAME": "Germany", "ABBREV": "Ger.", "NAME_FORMA": "Federal Republic of Germany", "TERR_": "", "NAME_SORT": "Germany", "ISO_A2": "DE", "ISO_A3": "DEU", "ISO_N3": 276.0 }, "geometry": { "type": "Point", "coordinates": [ 10.381548345563251, 51.106213174978215 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "SOVEREIGNT": "Djibouti", "SOV_A3": "DJI", "ADMIN": "Djibouti", "ADM0_A3": "DJI", "NAME": "Djibouti", "ABBREV": "Dji.", "NAME_FORMA": "Republic of Djibouti", "TERR_": "", "NAME_SORT": "Djibouti", "ISO_A2": "DJ", "ISO_A3": "DJI", "ISO_N3": 262.0 }, "geometry": { "type": "Point", "coordinates": [ 42.566670287140958, 11.750208644818141 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "SOVEREIGNT": "Dominica", "SOV_A3": "DMA", "ADMIN": "Dominica", "ADM0_A3": "DMA", "NAME": "Dominica", "ABBREV": "D'inca", "NAME_FORMA": "Commonwealth of Dominica", "TERR_": "", "NAME_SORT": "Dominica", "ISO_A2": "DM", "ISO_A3": "DMA", "ISO_N3": 212.0 }, "geometry": { "type": "Point", "coordinates": [ -61.356191734772267, 15.436255037029646 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "SOVEREIGNT": "Denmark", "SOV_A3": "DN1", "ADMIN": "Denmark", "ADM0_A3": "DNK", "NAME": "Denmark", "ABBREV": "Den.", "NAME_FORMA": "Kingdom of Denmark", "TERR_": "", "NAME_SORT": "Denmark", "ISO_A2": "DK", "ISO_A3": "DNK", "ISO_N3": 208.0 }, "geometry": { "type": "Point", "coordinates": [ 10.050669677350095, 55.964716793596693 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "SOVEREIGNT": "Dominican Republic", "SOV_A3": "DOM", "ADMIN": "Dominican Republic", "ADM0_A3": "DOM", "NAME": "Dominican Rep.", "ABBREV": "Dom. Rep.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Dominican Republic", "ISO_A2": "DO", "ISO_A3": "DOM", "ISO_N3": 214.0 }, "geometry": { "type": "Point", "coordinates": [ -70.496272291244978, 18.896204488655037 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "SOVEREIGNT": "Algeria", "SOV_A3": "DZA", "ADMIN": "Algeria", "ADM0_A3": "DZA", "NAME": "Algeria", "ABBREV": "Alg.", "NAME_FORMA": "People's Democratic Republic of Algeria", "TERR_": "", "NAME_SORT": "Algeria", "ISO_A2": "DZ", "ISO_A3": "DZA", "ISO_N3": 12.0 }, "geometry": { "type": "Point", "coordinates": [ 2.617789268462642, 28.158462842931204 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "SOVEREIGNT": "Ecuador", "SOV_A3": "ECU", "ADMIN": "Ecuador", "ADM0_A3": "ECU", "NAME": "Ecuador", "ABBREV": "Ecu.", "NAME_FORMA": "Republic of Ecuador", "TERR_": "", "NAME_SORT": "Ecuador", "ISO_A2": "EC", "ISO_A3": "ECU", "ISO_N3": 218.0 }, "geometry": { "type": "Point", "coordinates": [ -78.77322953391932, -1.424746988325379 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "SOVEREIGNT": "Egypt", "SOV_A3": "EGY", "ADMIN": "Egypt", "ADM0_A3": "EGY", "NAME": "Egypt", "ABBREV": "Egypt", "NAME_FORMA": "Arab Republic of Egypt", "TERR_": "", "NAME_SORT": "Egypt", "ISO_A2": "EG", "ISO_A3": "EGY", "ISO_N3": 818.0 }, "geometry": { "type": "Point", "coordinates": [ 29.861284157625647, 26.492375696133433 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "SOVEREIGNT": "Eritrea", "SOV_A3": "ERI", "ADMIN": "Eritrea", "ADM0_A3": "ERI", "NAME": "Eritrea", "ABBREV": "Erit.", "NAME_FORMA": "State of Eritrea", "TERR_": "", "NAME_SORT": "Eritrea", "ISO_A2": "ER", "ISO_A3": "ERI", "ISO_N3": 232.0 }, "geometry": { "type": "Point", "coordinates": [ 38.853178338236326, 15.3575384536234 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Dhekelia Sovereign Base Area", "ADM0_A3": "ESB", "NAME": "Dhekelia", "ABBREV": "Dhek.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Dhekelia Soverign Base Area", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 33.792590769400213, 35.017916088473086 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "SOVEREIGNT": "Spain", "SOV_A3": "ESP", "ADMIN": "Spain", "ADM0_A3": "ESP", "NAME": "Spain", "ABBREV": "Sp.", "NAME_FORMA": "Kingdom of Spain", "TERR_": "", "NAME_SORT": "Spain", "ISO_A2": "ES", "ISO_A3": "ESP", "ISO_N3": 724.0 }, "geometry": { "type": "Point", "coordinates": [ -3.656802117949822, 40.236900538137583 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "SOVEREIGNT": "Estonia", "SOV_A3": "EST", "ADMIN": "Estonia", "ADM0_A3": "EST", "NAME": "Estonia", "ABBREV": "Est.", "NAME_FORMA": "Republic of Estonia", "TERR_": "", "NAME_SORT": "Estonia", "ISO_A2": "EE", "ISO_A3": "EST", "ISO_N3": 233.0 }, "geometry": { "type": "Point", "coordinates": [ 25.535956751340201, 58.670837402421618 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "SOVEREIGNT": "Ethiopia", "SOV_A3": "ETH", "ADMIN": "Ethiopia", "ADM0_A3": "ETH", "NAME": "Ethiopia", "ABBREV": "Eth.", "NAME_FORMA": "Federal Democratic Republic of Ethiopia", "TERR_": "", "NAME_SORT": "Ethiopia", "ISO_A2": "ET", "ISO_A3": "ETH", "ISO_N3": 231.0 }, "geometry": { "type": "Point", "coordinates": [ 39.600551081433665, 8.622951735476594 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "SOVEREIGNT": "Finland", "SOV_A3": "FI1", "ADMIN": "Finland", "ADM0_A3": "FIN", "NAME": "Finland", "ABBREV": "Fin.", "NAME_FORMA": "Republic of Finland", "TERR_": "", "NAME_SORT": "Finland", "ISO_A2": "FI", "ISO_A3": "FIN", "ISO_N3": 246.0 }, "geometry": { "type": "Point", "coordinates": [ 26.27098882918197, 64.495285341765168 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "SOVEREIGNT": "Fiji", "SOV_A3": "FJI", "ADMIN": "Fiji", "ADM0_A3": "FJI", "NAME": "Fiji", "ABBREV": "Fiji", "NAME_FORMA": "Republic of the Fiji Islands", "TERR_": "", "NAME_SORT": "Fiji", "ISO_A2": "FJ", "ISO_A3": "FJI", "ISO_N3": 242.0 }, "geometry": { "type": "Point", "coordinates": [ 163.698140838797542, -17.446658880933999 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Falkland Islands", "ADM0_A3": "FLK", "NAME": "Falkland Is.", "ABBREV": "Flk. Is.", "NAME_FORMA": "Falkland Islands (Islas Malvinas)", "TERR_": "U.K.", "NAME_SORT": "Falkland Islands", "ISO_A2": "FK", "ISO_A3": "FLK", "ISO_N3": 238.0 }, "geometry": { "type": "Point", "coordinates": [ -59.371700093727227, -51.732379499083081 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "France", "ADM0_A3": "FRA", "NAME": "France", "ABBREV": "Fr.", "NAME_FORMA": "French Republic", "TERR_": "", "NAME_SORT": "France", "ISO_A2": "FR", "ISO_A3": "FRA", "ISO_N3": 250.0 }, "geometry": { "type": "Point", "coordinates": [ -2.77052451746867, 42.171600944465958 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "SOVEREIGNT": "Denmark", "SOV_A3": "DN1", "ADMIN": "Faroe Islands", "ADM0_A3": "FRO", "NAME": "Faroe Is.", "ABBREV": "Faroe Is.", "NAME_FORMA": "Føoroyar (Faroe Is.)", "TERR_": "Den.", "NAME_SORT": "Faroe Islands", "ISO_A2": "FO", "ISO_A3": "FRO", "ISO_N3": 234.0 }, "geometry": { "type": "Point", "coordinates": [ -6.86999799810477, 62.073730177659485 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "SOVEREIGNT": "Federated States of Micronesia", "SOV_A3": "FSM", "ADMIN": "Federated States of Micronesia", "ADM0_A3": "FSM", "NAME": "Micronesia", "ABBREV": "F.S.M.", "NAME_FORMA": "Federated States of Micronesia", "TERR_": "", "NAME_SORT": "Micronesia, Federated States of", "ISO_A2": "FM", "ISO_A3": "FSM", "ISO_N3": 583.0 }, "geometry": { "type": "Point", "coordinates": [ 155.247759152450925, 7.115377288479452 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "SOVEREIGNT": "Gabon", "SOV_A3": "GAB", "ADMIN": "Gabon", "ADM0_A3": "GAB", "NAME": "Gabon", "ABBREV": "Gabon", "NAME_FORMA": "Gabonese Republic", "TERR_": "", "NAME_SORT": "Gabon", "ISO_A2": "GA", "ISO_A3": "GAB", "ISO_N3": 266.0 }, "geometry": { "type": "Point", "coordinates": [ 11.792239292095047, -0.587010631888821 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "SOVEREIGNT": "Palestine", "SOV_A3": "PSE", "ADMIN": "Gaza", "ADM0_A3": "GAZ", "NAME": "Gaza", "ABBREV": "Gaza", "NAME_FORMA": "Gaza Strip", "TERR_": "", "NAME_SORT": "Gaza Strip", "ISO_A2": "PS", "ISO_A3": "PSE", "ISO_N3": 275.0 }, "geometry": { "type": "Point", "coordinates": [ 34.35190587235568, 31.389950779802511 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "United Kingdom", "ADM0_A3": "GBR", "NAME": "United Kingdom", "ABBREV": "U.K.", "NAME_FORMA": "United Kingdom of Great Britain and Northern Ireland", "TERR_": "", "NAME_SORT": "United Kingdom", "ISO_A2": "GB", "ISO_A3": "GBR", "ISO_N3": 826.0 }, "geometry": { "type": "Point", "coordinates": [ -2.886409900760951, 54.146782540589221 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "SOVEREIGNT": "Georgia", "SOV_A3": "GEO", "ADMIN": "Georgia", "ADM0_A3": "GEO", "NAME": "Georgia", "ABBREV": "Geo.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Georgia", "ISO_A2": "GE", "ISO_A3": "GEO", "ISO_N3": 268.0 }, "geometry": { "type": "Point", "coordinates": [ 43.507651019141058, 42.168816440133469 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Guernsey", "ADM0_A3": "GGY", "NAME": "Guernsey", "ABBREV": "Guern.", "NAME_FORMA": "Bailiwick of Guernsey", "TERR_": "Crown dependency of U.K.", "NAME_SORT": "Guernsey", "ISO_A2": "GG", "ISO_A3": "GGY", "ISO_N3": 831.0 }, "geometry": { "type": "Point", "coordinates": [ -2.531013439745915, 49.484318518590193 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "SOVEREIGNT": "Ghana", "SOV_A3": "GHA", "ADMIN": "Ghana", "ADM0_A3": "GHA", "NAME": "Ghana", "ABBREV": "Ghana", "NAME_FORMA": "Republic of Ghana", "TERR_": "", "NAME_SORT": "Ghana", "ISO_A2": "GH", "ISO_A3": "GHA", "ISO_N3": 288.0 }, "geometry": { "type": "Point", "coordinates": [ -1.216466155497857, 7.953797162534542 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Gibraltar", "ADM0_A3": "GIB", "NAME": "Gibraltar", "ABBREV": "Gib.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Gibraltar", "ISO_A2": "GI", "ISO_A3": "GIB", "ISO_N3": 292.0 }, "geometry": { "type": "Point", "coordinates": [ -5.371520409261624, 36.129256693647768 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "SOVEREIGNT": "Guinea", "SOV_A3": "GIN", "ADMIN": "Guinea", "ADM0_A3": "GIN", "NAME": "Guinea", "ABBREV": "Gin.", "NAME_FORMA": "Republic of Guinea", "TERR_": "", "NAME_SORT": "Guinea", "ISO_A2": "GN", "ISO_A3": "GIN", "ISO_N3": 324.0 }, "geometry": { "type": "Point", "coordinates": [ -10.942916929324891, 10.43466906313137 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "SOVEREIGNT": "Gambia", "SOV_A3": "GMB", "ADMIN": "Gambia", "ADM0_A3": "GMB", "NAME": "Gambia", "ABBREV": "Gambia", "NAME_FORMA": "Republic of the Gambia", "TERR_": "", "NAME_SORT": "Gambia", "ISO_A2": "GM", "ISO_A3": "GMB", "ISO_N3": 270.0 }, "geometry": { "type": "Point", "coordinates": [ -15.397103418989047, 13.449780346572087 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "SOVEREIGNT": "Guinea Bissau", "SOV_A3": "GNB", "ADMIN": "Guinea Bissau", "ADM0_A3": "GNB", "NAME": "Guinea Bissau", "ABBREV": "GnB.", "NAME_FORMA": "Republic of Guinea Bissau", "TERR_": "", "NAME_SORT": "Guinea Bissau (Guinea-Bissau)", "ISO_A2": "GW", "ISO_A3": "GNB", "ISO_N3": 624.0 }, "geometry": { "type": "Point", "coordinates": [ -14.97736534835389, 12.027000475890354 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "SOVEREIGNT": "Equatorial Guinea", "SOV_A3": "GNQ", "ADMIN": "Equatorial Guinea", "ADM0_A3": "GNQ", "NAME": "Eq. Guinea", "ABBREV": "Eq. G.", "NAME_FORMA": "Republic of Equatorial Guinea", "TERR_": "", "NAME_SORT": "Equatorial Guinea", "ISO_A2": "GQ", "ISO_A3": "GNQ", "ISO_N3": 226.0 }, "geometry": { "type": "Point", "coordinates": [ 10.333170541441069, 1.706945215263951 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "SOVEREIGNT": "Greece", "SOV_A3": "GRC", "ADMIN": "Greece", "ADM0_A3": "GRC", "NAME": "Greece", "ABBREV": "Greece", "NAME_FORMA": "Hellenic Republic", "TERR_": "", "NAME_SORT": "Greece", "ISO_A2": "GR", "ISO_A3": "GRC", "ISO_N3": 300.0 }, "geometry": { "type": "Point", "coordinates": [ 22.975140198878766, 39.051219666904252 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "SOVEREIGNT": "Grenada", "SOV_A3": "GRD", "ADMIN": "Grenada", "ADM0_A3": "GRD", "NAME": "Grenada", "ABBREV": "Gren.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Grenada", "ISO_A2": "GD", "ISO_A3": "GRD", "ISO_N3": 308.0 }, "geometry": { "type": "Point", "coordinates": [ -61.65594232117698, 12.153199774170664 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "SOVEREIGNT": "Denmark", "SOV_A3": "DN1", "ADMIN": "Greenland", "ADM0_A3": "GRL", "NAME": "Greenland", "ABBREV": "Grlnd.", "NAME_FORMA": "", "TERR_": "Den.", "NAME_SORT": "Greenland", "ISO_A2": "GL", "ISO_A3": "GRL", "ISO_N3": 304.0 }, "geometry": { "type": "Point", "coordinates": [ -41.343759340358012, 74.736066866916161 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "SOVEREIGNT": "Guatemala", "SOV_A3": "GTM", "ADMIN": "Guatemala", "ADM0_A3": "GTM", "NAME": "Guatemala", "ABBREV": "Guat.", "NAME_FORMA": "Republic of Guatemala", "TERR_": "", "NAME_SORT": "Guatemala", "ISO_A2": "GT", "ISO_A3": "GTM", "ISO_N3": 320.0 }, "geometry": { "type": "Point", "coordinates": [ -90.36505784076941, 15.693396133090571 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "SOVEREIGNT": "United States of America", "SOV_A3": "US1", "ADMIN": "Guam", "ADM0_A3": "GUM", "NAME": "Guam", "ABBREV": "Guam", "NAME_FORMA": "Territory of Guam", "TERR_": "U.S.A.", "NAME_SORT": "Guam", "ISO_A2": "GU", "ISO_A3": "GUM", "ISO_N3": 316.0 }, "geometry": { "type": "Point", "coordinates": [ 144.772216010129682, 13.443633960776713 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "SOVEREIGNT": "Guyana", "SOV_A3": "GUY", "ADMIN": "Guyana", "ADM0_A3": "GUY", "NAME": "Guyana", "ABBREV": "Guy.", "NAME_FORMA": "Cooperative Republic of Guyana", "TERR_": "", "NAME_SORT": "Guyana", "ISO_A2": "GY", "ISO_A3": "GUY", "ISO_N3": 328.0 }, "geometry": { "type": "Point", "coordinates": [ -58.979904805265271, 4.795141641124625 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "SOVEREIGNT": "China", "SOV_A3": "CH1", "ADMIN": "Hong Kong S.A.R.", "ADM0_A3": "HKG", "NAME": "Hong Kong", "ABBREV": "H.K.", "NAME_FORMA": "Hong Kong Special Administrative Region", "TERR_": "China", "NAME_SORT": "Hong Kong S.A.R.", "ISO_A2": "HK", "ISO_A3": "HKG", "ISO_N3": 344.0 }, "geometry": { "type": "Point", "coordinates": [ 114.131987135005502, 22.384536322799637 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "SOVEREIGNT": "Australia", "SOV_A3": "AU1", "ADMIN": "Heard Island and McDonald Islands", "ADM0_A3": "HMD", "NAME": "Heard I. and McDonald Is.", "ABBREV": "H.M.Is.", "NAME_FORMA": "Territory of Heard Island and McDonald Islands", "TERR_": "Auz.", "NAME_SORT": "Heard Island and McDonald Islands", "ISO_A2": "HM", "ISO_A3": "HMD", "ISO_N3": 334.0 }, "geometry": { "type": "Point", "coordinates": [ 73.505637093734762, -53.088816277445595 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "SOVEREIGNT": "Honduras", "SOV_A3": "HND", "ADMIN": "Honduras", "ADM0_A3": "HND", "NAME": "Honduras", "ABBREV": "Hond.", "NAME_FORMA": "Republic of Honduras", "TERR_": "", "NAME_SORT": "Honduras", "ISO_A2": "HN", "ISO_A3": "HND", "ISO_N3": 340.0 }, "geometry": { "type": "Point", "coordinates": [ -86.618415513737546, 14.824165593140602 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "SOVEREIGNT": "Croatia", "SOV_A3": "HRV", "ADMIN": "Croatia", "ADM0_A3": "HRV", "NAME": "Croatia", "ABBREV": "Cro.", "NAME_FORMA": "Republic of Croatia", "TERR_": "", "NAME_SORT": "Croatia", "ISO_A2": "HR", "ISO_A3": "HRV", "ISO_N3": 191.0 }, "geometry": { "type": "Point", "coordinates": [ 16.398661580384537, 45.067760402381474 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "SOVEREIGNT": "Haiti", "SOV_A3": "HTI", "ADMIN": "Haiti", "ADM0_A3": "HTI", "NAME": "Haiti", "ABBREV": "Haiti", "NAME_FORMA": "Republic of Haiti", "TERR_": "", "NAME_SORT": "Haiti", "ISO_A2": "HT", "ISO_A3": "HTI", "ISO_N3": 332.0 }, "geometry": { "type": "Point", "coordinates": [ -72.6907025851784, 18.938140263568087 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "SOVEREIGNT": "Hungary", "SOV_A3": "HUN", "ADMIN": "Hungary", "ADM0_A3": "HUN", "NAME": "Hungary", "ABBREV": "Hun.", "NAME_FORMA": "Republic of Hungary", "TERR_": "", "NAME_SORT": "Hungary", "ISO_A2": "HU", "ISO_A3": "HUN", "ISO_N3": 348.0 }, "geometry": { "type": "Point", "coordinates": [ 19.396759267412452, 47.163243686641934 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "SOVEREIGNT": "Indonesia", "SOV_A3": "IDN", "ADMIN": "Indonesia", "ADM0_A3": "IDN", "NAME": "Indonesia", "ABBREV": "Indo.", "NAME_FORMA": "Republic of Indonesia", "TERR_": "", "NAME_SORT": "Indonesia", "ISO_A2": "ID", "ISO_A3": "IDN", "ISO_N3": 360.0 }, "geometry": { "type": "Point", "coordinates": [ 117.272105406001813, -2.220831111892149 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Isle of Man", "ADM0_A3": "IMN", "NAME": "Isle of Man", "ABBREV": "IoMan", "NAME_FORMA": "", "TERR_": "Crown dependency of U.K.", "NAME_SORT": "Isle of Man", "ISO_A2": "IM", "ISO_A3": "IMN", "ISO_N3": 833.0 }, "geometry": { "type": "Point", "coordinates": [ -4.534279156915195, 54.228072319875494 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "SOVEREIGNT": "India", "SOV_A3": "IND", "ADMIN": "India", "ADM0_A3": "IND", "NAME": "India", "ABBREV": "India", "NAME_FORMA": "Republic of India", "TERR_": "", "NAME_SORT": "India", "ISO_A2": "IN", "ISO_A3": "IND", "ISO_N3": 356.0 }, "geometry": { "type": "Point", "coordinates": [ 79.612213739364122, 22.887366014644371 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "SOVEREIGNT": "Australia", "SOV_A3": "AU1", "ADMIN": "Indian Ocean Territories", "ADM0_A3": "IOA", "NAME": "Indian Ocean Ter.", "ABBREV": "Ind. Oc. Ter.", "NAME_FORMA": "", "TERR_": "Auz.", "NAME_SORT": "Indian Ocean Territories", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 104.621429955388123, -10.691999509579244 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "British Indian Ocean Territory", "ADM0_A3": "IOT", "NAME": "Br. Indian Ocean Ter.", "ABBREV": "I.O.T.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "British Indian Ocean Territory", "ISO_A2": "IO", "ISO_A3": "IOT", "ISO_N3": 86.0 }, "geometry": { "type": "Point", "coordinates": [ 72.299275219682272, -7.144436186848671 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "SOVEREIGNT": "Ireland", "SOV_A3": "IRL", "ADMIN": "Ireland", "ADM0_A3": "IRL", "NAME": "Ireland", "ABBREV": "Ire.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Ireland", "ISO_A2": "IE", "ISO_A3": "IRL", "ISO_N3": 372.0 }, "geometry": { "type": "Point", "coordinates": [ -8.144425651439585, 53.177874383992716 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "SOVEREIGNT": "Iran", "SOV_A3": "IRN", "ADMIN": "Iran", "ADM0_A3": "IRN", "NAME": "Iran", "ABBREV": "Iran", "NAME_FORMA": "Islamic Republic of Iran", "TERR_": "", "NAME_SORT": "Iran", "ISO_A2": "IR", "ISO_A3": "IRN", "ISO_N3": 364.0 }, "geometry": { "type": "Point", "coordinates": [ 54.276286451826593, 32.572027088233753 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "SOVEREIGNT": "Iraq", "SOV_A3": "IRQ", "ADMIN": "Iraq", "ADM0_A3": "IRQ", "NAME": "Iraq", "ABBREV": "Iraq", "NAME_FORMA": "Republic of Iraq", "TERR_": "", "NAME_SORT": "Iraq", "ISO_A2": "IQ", "ISO_A3": "IRQ", "ISO_N3": 368.0 }, "geometry": { "type": "Point", "coordinates": [ 43.74498637746062, 33.039797252860666 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "SOVEREIGNT": "Iceland", "SOV_A3": "ISL", "ADMIN": "Iceland", "ADM0_A3": "ISL", "NAME": "Iceland", "ABBREV": "Iceland", "NAME_FORMA": "Republic of Iceland", "TERR_": "", "NAME_SORT": "Iceland", "ISO_A2": "IS", "ISO_A3": "ISL", "ISO_N3": 352.0 }, "geometry": { "type": "Point", "coordinates": [ -18.595806637253567, 64.998012441865598 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "SOVEREIGNT": "Israel", "SOV_A3": "ISR", "ADMIN": "Israel", "ADM0_A3": "ISR", "NAME": "Israel", "ABBREV": "Isr.", "NAME_FORMA": "State of Israel", "TERR_": "", "NAME_SORT": "Israel", "ISO_A2": "IL", "ISO_A3": "ISR", "ISO_N3": 376.0 }, "geometry": { "type": "Point", "coordinates": [ 34.99609982339183, 31.44354815865044 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "SOVEREIGNT": "Italy", "SOV_A3": "ITA", "ADMIN": "Italy", "ADM0_A3": "ITA", "NAME": "Italy", "ABBREV": "Italy", "NAME_FORMA": "Italian Republic", "TERR_": "", "NAME_SORT": "Italy", "ISO_A2": "IT", "ISO_A3": "ITA", "ISO_N3": 380.0 }, "geometry": { "type": "Point", "coordinates": [ 12.072136949004243, 42.786248918212856 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "SOVEREIGNT": "Jamaica", "SOV_A3": "JAM", "ADMIN": "Jamaica", "ADM0_A3": "JAM", "NAME": "Jamaica", "ABBREV": "Jam.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Jamaica", "ISO_A2": "JM", "ISO_A3": "JAM", "ISO_N3": 388.0 }, "geometry": { "type": "Point", "coordinates": [ -77.318534795446553, 18.154593684513422 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Jersey", "ADM0_A3": "JEY", "NAME": "Jersey", "ABBREV": "Jey.", "NAME_FORMA": "Bailiwick of Jersey", "TERR_": "Crown dependency of U.K.", "NAME_SORT": "Jersey", "ISO_A2": "JE", "ISO_A3": "JEY", "ISO_N3": 832.0 }, "geometry": { "type": "Point", "coordinates": [ -2.126824220178567, 49.220805046562333 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "SOVEREIGNT": "Jordan", "SOV_A3": "JOR", "ADMIN": "Jordan", "ADM0_A3": "JOR", "NAME": "Jordan", "ABBREV": "Jord.", "NAME_FORMA": "Hashemite Kingdom of Jordan", "TERR_": "", "NAME_SORT": "Jordan", "ISO_A2": "JO", "ISO_A3": "JOR", "ISO_N3": 400.0 }, "geometry": { "type": "Point", "coordinates": [ 36.770946216999185, 31.245598365481264 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "SOVEREIGNT": "Japan", "SOV_A3": "JPN", "ADMIN": "Japan", "ADM0_A3": "JPN", "NAME": "Japan", "ABBREV": "Japan", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Japan", "ISO_A2": "JP", "ISO_A3": "JPN", "ISO_N3": 392.0 }, "geometry": { "type": "Point", "coordinates": [ 137.99253526034758, 37.555900742141844 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "SOVEREIGNT": "Kazakhstan", "SOV_A3": "KAZ", "ADMIN": "Baykonur Cosmodrome", "ADM0_A3": "KAB", "NAME": "Baykonur", "ABBREV": "Bayk.", "NAME_FORMA": "", "TERR_": "Leased by Rus. from Kaz.", "NAME_SORT": "Baykonur Cosmodrome", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 63.384061724833948, 45.978304613597956 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "SOVEREIGNT": "Kashmir", "SOV_A3": "KAS", "ADMIN": "Siachen Glacier", "ADM0_A3": "KAS", "NAME": "", "ABBREV": "", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Kashmir", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 77.180145651631221, 35.391262396470623 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "SOVEREIGNT": "Kazakhstan", "SOV_A3": "KAZ", "ADMIN": "Kazakhstan", "ADM0_A3": "KAZ", "NAME": "Kazakhstan", "ABBREV": "Kaz.", "NAME_FORMA": "Republic of Kazakhstan", "TERR_": "", "NAME_SORT": "Kazakhstan", "ISO_A2": "KZ", "ISO_A3": "KAZ", "ISO_N3": 398.0 }, "geometry": { "type": "Point", "coordinates": [ 67.296012584234276, 48.160670931540878 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "SOVEREIGNT": "Kenya", "SOV_A3": "KEN", "ADMIN": "Kenya", "ADM0_A3": "KEN", "NAME": "Kenya", "ABBREV": "Ken.", "NAME_FORMA": "Republic of Kenya", "TERR_": "", "NAME_SORT": "Kenya", "ISO_A2": "KE", "ISO_A3": "KEN", "ISO_N3": 404.0 }, "geometry": { "type": "Point", "coordinates": [ 37.796225734084082, 0.598081461541721 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "SOVEREIGNT": "Kyrgyzstan", "SOV_A3": "KGZ", "ADMIN": "Kyrgyzstan", "ADM0_A3": "KGZ", "NAME": "Kyrgyzstan", "ABBREV": "Kgz.", "NAME_FORMA": "Kyrgyz Republic", "TERR_": "", "NAME_SORT": "Kyrgyzstan", "ISO_A2": "KG", "ISO_A3": "KGZ", "ISO_N3": 417.0 }, "geometry": { "type": "Point", "coordinates": [ 74.54166945739243, 41.461918658559419 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "SOVEREIGNT": "Cambodia", "SOV_A3": "KHM", "ADMIN": "Cambodia", "ADM0_A3": "KHM", "NAME": "Cambodia", "ABBREV": "Camb.", "NAME_FORMA": "Kingdom of Cambodia", "TERR_": "", "NAME_SORT": "Cambodia", "ISO_A2": "KH", "ISO_A3": "KHM", "ISO_N3": 116.0 }, "geometry": { "type": "Point", "coordinates": [ 104.902820010572071, 12.715572256204647 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "SOVEREIGNT": "Kiribati", "SOV_A3": "KIR", "ADMIN": "Kiribati", "ADM0_A3": "KIR", "NAME": "Kiribati", "ABBREV": "Kir.", "NAME_FORMA": "Republic of Kiribati", "TERR_": "", "NAME_SORT": "Kiribati", "ISO_A2": "KI", "ISO_A3": "KIR", "ISO_N3": 296.0 }, "geometry": { "type": "Point", "coordinates": [ -55.320069590519779, 0.799810322710066 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "SOVEREIGNT": "Saint Kitts and Nevis", "SOV_A3": "KNA", "ADMIN": "Saint Kitts and Nevis", "ADM0_A3": "KNA", "NAME": "St. Kitts and Nevis", "ABBREV": "St.K.N.", "NAME_FORMA": "Federation of Saint Kitts and Nevis", "TERR_": "", "NAME_SORT": "Saint Kitts and Nevis", "ISO_A2": "KN", "ISO_A3": "KNA", "ISO_N3": 659.0 }, "geometry": { "type": "Point", "coordinates": [ -62.697778388586777, 17.270822507531747 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "SOVEREIGNT": "Korea No Mans Area", "SOV_A3": "KNM", "ADMIN": "Korea No Mans Area", "ADM0_A3": "KNM", "NAME": "", "ABBREV": "", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Korea No Mans Area", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 127.491622253182456, 38.265752378078396 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "SOVEREIGNT": "South Korea", "SOV_A3": "KOR", "ADMIN": "South Korea", "ADM0_A3": "KOR", "NAME": "S. Korea", "ABBREV": "S.Kor.", "NAME_FORMA": "Republic of Korea", "TERR_": "", "NAME_SORT": "Korea, South", "ISO_A2": "KR", "ISO_A3": "KOR", "ISO_N3": 410.0 }, "geometry": { "type": "Point", "coordinates": [ 127.832193686533927, 36.350472596507529 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "SOVEREIGNT": "Kosovo", "SOV_A3": "KOS", "ADMIN": "Kosovo", "ADM0_A3": "KOS", "NAME": "Kosovo", "ABBREV": "Kos.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Kosovo", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 20.873743030264723, 42.572883331497522 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "SOVEREIGNT": "Kuwait", "SOV_A3": "KWT", "ADMIN": "Kuwait", "ADM0_A3": "KWT", "NAME": "Kuwait", "ABBREV": "Kwt.", "NAME_FORMA": "State of Kuwait", "TERR_": "", "NAME_SORT": "Kuwait", "ISO_A2": "KW", "ISO_A3": "KWT", "ISO_N3": 414.0 }, "geometry": { "type": "Point", "coordinates": [ 47.590579701839673, 29.338787932989394 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "SOVEREIGNT": "Laos", "SOV_A3": "LAO", "ADMIN": "Laos", "ADM0_A3": "LAO", "NAME": "Laos", "ABBREV": "Laos", "NAME_FORMA": "Lao People's Democratic Republic", "TERR_": "", "NAME_SORT": "Laos", "ISO_A2": "LA", "ISO_A3": "LAO", "ISO_N3": 418.0 }, "geometry": { "type": "Point", "coordinates": [ 103.737873385020833, 18.502298373732209 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "SOVEREIGNT": "Lebanon", "SOV_A3": "LBN", "ADMIN": "Lebanon", "ADM0_A3": "LBN", "NAME": "Lebanon", "ABBREV": "Leb.", "NAME_FORMA": "Lebanese Republic", "TERR_": "", "NAME_SORT": "Lebanon", "ISO_A2": "LB", "ISO_A3": "LBN", "ISO_N3": 422.0 }, "geometry": { "type": "Point", "coordinates": [ 35.880272317702286, 33.920397610145017 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "SOVEREIGNT": "Liberia", "SOV_A3": "LBR", "ADMIN": "Liberia", "ADM0_A3": "LBR", "NAME": "Liberia", "ABBREV": "Liberia", "NAME_FORMA": "Republic of Liberia", "TERR_": "", "NAME_SORT": "Liberia", "ISO_A2": "LR", "ISO_A3": "LBR", "ISO_N3": 430.0 }, "geometry": { "type": "Point", "coordinates": [ -9.319780698163619, 6.452317655061328 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "SOVEREIGNT": "Libya", "SOV_A3": "LBY", "ADMIN": "Libya", "ADM0_A3": "LBY", "NAME": "Libya", "ABBREV": "Libya", "NAME_FORMA": "Great Socialist People's Libyan Arab Jamahiriya", "TERR_": "", "NAME_SORT": "Libya", "ISO_A2": "LY", "ISO_A3": "LBY", "ISO_N3": 434.0 }, "geometry": { "type": "Point", "coordinates": [ 18.009583390554774, 27.030205737777781 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "SOVEREIGNT": "Saint Lucia", "SOV_A3": "LCA", "ADMIN": "Saint Lucia", "ADM0_A3": "LCA", "NAME": "Saint Lucia", "ABBREV": "S.L.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Saint Lucia", "ISO_A2": "LC", "ISO_A3": "LCA", "ISO_N3": 662.0 }, "geometry": { "type": "Point", "coordinates": [ -60.969577354017787, 13.902484877602438 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "SOVEREIGNT": "Liechtenstein", "SOV_A3": "LIE", "ADMIN": "Liechtenstein", "ADM0_A3": "LIE", "NAME": "Liechtenstein", "ABBREV": "Liech.", "NAME_FORMA": "Principality of Liechtenstein", "TERR_": "", "NAME_SORT": "Liechtenstein", "ISO_A2": "LI", "ISO_A3": "LIE", "ISO_N3": 438.0 }, "geometry": { "type": "Point", "coordinates": [ 9.540900288807912, 47.138206429445873 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "SOVEREIGNT": "Sri Lanka", "SOV_A3": "LKA", "ADMIN": "Sri Lanka", "ADM0_A3": "LKA", "NAME": "Sri Lanka", "ABBREV": "Sri L.", "NAME_FORMA": "Democratic Socialist Republic of Sri Lanka", "TERR_": "", "NAME_SORT": "Sri Lanka", "ISO_A2": "LK", "ISO_A3": "LKA", "ISO_N3": 144.0 }, "geometry": { "type": "Point", "coordinates": [ 80.703549501115646, 7.615738331017911 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "SOVEREIGNT": "Lesotho", "SOV_A3": "LSO", "ADMIN": "Lesotho", "ADM0_A3": "LSO", "NAME": "Lesotho", "ABBREV": "Les.", "NAME_FORMA": "Republic of Lesotho", "TERR_": "", "NAME_SORT": "Lesotho", "ISO_A2": "LS", "ISO_A3": "LSO", "ISO_N3": 426.0 }, "geometry": { "type": "Point", "coordinates": [ 28.228622924927095, -29.579730444288181 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "SOVEREIGNT": "Lithuania", "SOV_A3": "LTU", "ADMIN": "Lithuania", "ADM0_A3": "LTU", "NAME": "Lithuania", "ABBREV": "Lith.", "NAME_FORMA": "Republic of Lithuania", "TERR_": "", "NAME_SORT": "Lithuania", "ISO_A2": "LT", "ISO_A3": "LTU", "ISO_N3": 440.0 }, "geometry": { "type": "Point", "coordinates": [ 23.888368737601262, 55.327007636574251 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "SOVEREIGNT": "Luxembourg", "SOV_A3": "LUX", "ADMIN": "Luxembourg", "ADM0_A3": "LUX", "NAME": "Luxembourg", "ABBREV": "Lux.", "NAME_FORMA": "Grand Duchy of Luxembourg", "TERR_": "", "NAME_SORT": "Luxembourg", "ISO_A2": "LU", "ISO_A3": "LUX", "ISO_N3": 442.0 }, "geometry": { "type": "Point", "coordinates": [ 6.07176389067843, 49.766824373096981 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "SOVEREIGNT": "Latvia", "SOV_A3": "LVA", "ADMIN": "Latvia", "ADM0_A3": "LVA", "NAME": "Latvia", "ABBREV": "Lat.", "NAME_FORMA": "Republic of Latvia", "TERR_": "", "NAME_SORT": "Latvia", "ISO_A2": "LV", "ISO_A3": "LVA", "ISO_N3": 428.0 }, "geometry": { "type": "Point", "coordinates": [ 24.909128226940322, 56.851761060889913 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "SOVEREIGNT": "China", "SOV_A3": "CH1", "ADMIN": "Macau S.A.R", "ADM0_A3": "MAC", "NAME": "Macau", "ABBREV": "Mac.", "NAME_FORMA": "Macau Special Administrative Region", "TERR_": "China", "NAME_SORT": "Macau S.A.R", "ISO_A2": "MO", "ISO_A3": "MAC", "ISO_N3": 446.0 }, "geometry": { "type": "Point", "coordinates": [ 113.551327767897561, 22.1570398137826 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "Saint Martin", "ADM0_A3": "MAF", "NAME": "St. Martin", "ABBREV": "St. M.", "NAME_FORMA": "", "TERR_": "Fr.", "NAME_SORT": "Saint Martin", "ISO_A2": "MF", "ISO_A3": "MAF", "ISO_N3": 663.0 }, "geometry": { "type": "Point", "coordinates": [ -63.054270342341582, 18.077328367978357 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "SOVEREIGNT": "Morocco", "SOV_A3": "MAR", "ADMIN": "Morocco", "ADM0_A3": "MAR", "NAME": "Morocco", "ABBREV": "Mor.", "NAME_FORMA": "Kingdom of Morocco", "TERR_": "", "NAME_SORT": "Morocco", "ISO_A2": "MA", "ISO_A3": "MAR", "ISO_N3": 504.0 }, "geometry": { "type": "Point", "coordinates": [ -8.455532949459272, 29.834245467898061 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "SOVEREIGNT": "Monaco", "SOV_A3": "MCO", "ADMIN": "Monaco", "ADM0_A3": "MCO", "NAME": "Monaco", "ABBREV": "Mco.", "NAME_FORMA": "Principality of Monaco", "TERR_": "", "NAME_SORT": "Monaco", "ISO_A2": "MC", "ISO_A3": "MCO", "ISO_N3": 492.0 }, "geometry": { "type": "Point", "coordinates": [ 7.398763467843883, 43.746032756971651 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "SOVEREIGNT": "Moldova", "SOV_A3": "MDA", "ADMIN": "Moldova", "ADM0_A3": "MDA", "NAME": "Moldova", "ABBREV": "Mda.", "NAME_FORMA": "Republic of Moldova", "TERR_": "", "NAME_SORT": "Moldova", "ISO_A2": "MD", "ISO_A3": "MDA", "ISO_N3": 498.0 }, "geometry": { "type": "Point", "coordinates": [ 28.461397116389357, 47.195101391862842 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "SOVEREIGNT": "Madagascar", "SOV_A3": "MDG", "ADMIN": "Madagascar", "ADM0_A3": "MDG", "NAME": "Madagascar", "ABBREV": "Mad.", "NAME_FORMA": "Republic of Madagascar", "TERR_": "", "NAME_SORT": "Madagascar", "ISO_A2": "MG", "ISO_A3": "MDG", "ISO_N3": 450.0 }, "geometry": { "type": "Point", "coordinates": [ 46.706458378029815, -19.373253866129403 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "SOVEREIGNT": "Maldives", "SOV_A3": "MDV", "ADMIN": "Maldives", "ADM0_A3": "MDV", "NAME": "Maldives", "ABBREV": "Mald.", "NAME_FORMA": "Republic of Maldives", "TERR_": "", "NAME_SORT": "Maldives", "ISO_A2": "MV", "ISO_A3": "MDV", "ISO_N3": 462.0 }, "geometry": { "type": "Point", "coordinates": [ 73.331083905965997, 3.679779539902639 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "SOVEREIGNT": "Mexico", "SOV_A3": "MEX", "ADMIN": "Mexico", "ADM0_A3": "MEX", "NAME": "Mexico", "ABBREV": "Mex.", "NAME_FORMA": "United Mexican States", "TERR_": "", "NAME_SORT": "Mexico", "ISO_A2": "MX", "ISO_A3": "MEX", "ISO_N3": 484.0 }, "geometry": { "type": "Point", "coordinates": [ -102.527040297117637, 23.947546327371914 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "SOVEREIGNT": "Marshall Islands", "SOV_A3": "MHL", "ADMIN": "Marshall Islands", "ADM0_A3": "MHL", "NAME": "Marshall Is.", "ABBREV": "M. Is.", "NAME_FORMA": "Republic of the Marshall Islands", "TERR_": "", "NAME_SORT": "Marshall Islands", "ISO_A2": "MH", "ISO_A3": "MHL", "ISO_N3": 584.0 }, "geometry": { "type": "Point", "coordinates": [ 170.090088176145571, 7.112981351418146 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "SOVEREIGNT": "Macedonia", "SOV_A3": "MKD", "ADMIN": "Macedonia", "ADM0_A3": "MKD", "NAME": "Macedonia", "ABBREV": "Mkd.", "NAME_FORMA": "Republic of Macedonia", "TERR_": "", "NAME_SORT": "Macedonia, The former Yugoslav Republic of", "ISO_A2": "MK", "ISO_A3": "MKD", "ISO_N3": 807.0 }, "geometry": { "type": "Point", "coordinates": [ 21.683830423463714, 41.595004796237745 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "SOVEREIGNT": "Mali", "SOV_A3": "MLI", "ADMIN": "Mali", "ADM0_A3": "MLI", "NAME": "Mali", "ABBREV": "Mali", "NAME_FORMA": "Republic of Mali", "TERR_": "", "NAME_SORT": "Mali", "ISO_A2": "ML", "ISO_A3": "MLI", "ISO_N3": 466.0 }, "geometry": { "type": "Point", "coordinates": [ -3.539079383008623, 17.344162779172606 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "SOVEREIGNT": "Malta", "SOV_A3": "MLT", "ADMIN": "Malta", "ADM0_A3": "MLT", "NAME": "Malta", "ABBREV": "Malta", "NAME_FORMA": "Republic of Malta", "TERR_": "", "NAME_SORT": "Malta", "ISO_A2": "MT", "ISO_A3": "MLT", "ISO_N3": 470.0 }, "geometry": { "type": "Point", "coordinates": [ 14.404244664742729, 35.920801194881761 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "SOVEREIGNT": "Myanmar", "SOV_A3": "MMR", "ADMIN": "Myanmar", "ADM0_A3": "MMR", "NAME": "Myanmar", "ABBREV": "Myan.", "NAME_FORMA": "Union of Burma", "TERR_": "", "NAME_SORT": "Myanmar", "ISO_A2": "MM", "ISO_A3": "MMR", "ISO_N3": 104.0 }, "geometry": { "type": "Point", "coordinates": [ 96.489186423511612, 21.169414540666136 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "SOVEREIGNT": "Montenegro", "SOV_A3": "MNE", "ADMIN": "Montenegro", "ADM0_A3": "MNE", "NAME": "Montenegro", "ABBREV": "Mont.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Montenegro", "ISO_A2": "ME", "ISO_A3": "MNE", "ISO_N3": 499.0 }, "geometry": { "type": "Point", "coordinates": [ 19.238500911636301, 42.785856142720448 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "SOVEREIGNT": "Mongolia", "SOV_A3": "MNG", "ADMIN": "Mongolia", "ADM0_A3": "MNG", "NAME": "Mongolia", "ABBREV": "Mong.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Mongolia", "ISO_A2": "MN", "ISO_A3": "MNG", "ISO_N3": 496.0 }, "geometry": { "type": "Point", "coordinates": [ 103.056286662009811, 46.825806066058441 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "SOVEREIGNT": "United States of America", "SOV_A3": "US1", "ADMIN": "Northern Mariana Islands", "ADM0_A3": "MNP", "NAME": "N. Mariana Is.", "ABBREV": "N.M.I.", "NAME_FORMA": "Commonwealth of the Northern Mariana Islands", "TERR_": "Commonwealth of U.S.A.", "NAME_SORT": "Mariana Islands, Northern", "ISO_A2": "MP", "ISO_A3": "MNP", "ISO_N3": 580.0 }, "geometry": { "type": "Point", "coordinates": [ 145.592620109513376, 16.114806607887079 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "SOVEREIGNT": "Mozambique", "SOV_A3": "MOZ", "ADMIN": "Mozambique", "ADM0_A3": "MOZ", "NAME": "Mozambique", "ABBREV": "Moz.", "NAME_FORMA": "Republic of Mozambique", "TERR_": "", "NAME_SORT": "Mozambique", "ISO_A2": "MZ", "ISO_A3": "MOZ", "ISO_N3": 508.0 }, "geometry": { "type": "Point", "coordinates": [ 35.537525775635451, -17.270376140839943 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "SOVEREIGNT": "Mauritania", "SOV_A3": "MRT", "ADMIN": "Mauritania", "ADM0_A3": "MRT", "NAME": "Mauritania", "ABBREV": "Mrt.", "NAME_FORMA": "Islamic Republic of Mauritania", "TERR_": "", "NAME_SORT": "Mauritania", "ISO_A2": "MR", "ISO_A3": "MRT", "ISO_N3": 478.0 }, "geometry": { "type": "Point", "coordinates": [ -10.342916536316473, 20.256307081285819 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Montserrat", "ADM0_A3": "MSR", "NAME": "Montserrat", "ABBREV": "Monts.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Montserrat", "ISO_A2": "MS", "ISO_A3": "MSR", "ISO_N3": 500.0 }, "geometry": { "type": "Point", "coordinates": [ -62.186670203151287, 16.737338882166497 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "SOVEREIGNT": "Mauritius", "SOV_A3": "MUS", "ADMIN": "Mauritius", "ADM0_A3": "MUS", "NAME": "Mauritius", "ABBREV": "Mus.", "NAME_FORMA": "Republic of Mauritius", "TERR_": "", "NAME_SORT": "Mauritius", "ISO_A2": "MU", "ISO_A3": "MUS", "ISO_N3": 480.0 }, "geometry": { "type": "Point", "coordinates": [ 57.854617488682578, -20.221511862703384 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "SOVEREIGNT": "Malawi", "SOV_A3": "MWI", "ADMIN": "Malawi", "ADM0_A3": "MWI", "NAME": "Malawi", "ABBREV": "Mal.", "NAME_FORMA": "Republic of Malawi", "TERR_": "", "NAME_SORT": "Malawi", "ISO_A2": "MW", "ISO_A3": "MWI", "ISO_N3": 454.0 }, "geometry": { "type": "Point", "coordinates": [ 34.289907803384125, -13.21722586478367 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "SOVEREIGNT": "Malaysia", "SOV_A3": "MYS", "ADMIN": "Malaysia", "ADM0_A3": "MYS", "NAME": "Malaysia", "ABBREV": "Malay.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Malaysia", "ISO_A2": "MY", "ISO_A3": "MYS", "ISO_N3": 458.0 }, "geometry": { "type": "Point", "coordinates": [ 109.6977022574101, 3.792396873798569 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "SOVEREIGNT": "Namibia", "SOV_A3": "NAM", "ADMIN": "Namibia", "ADM0_A3": "NAM", "NAME": "Namibia", "ABBREV": "Nam.", "NAME_FORMA": "Republic of Namibia", "TERR_": "", "NAME_SORT": "Namibia", "ISO_A2": "NA", "ISO_A3": "NAM", "ISO_N3": 516.0 }, "geometry": { "type": "Point", "coordinates": [ 17.210796228039889, -22.128668998100956 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "New Caledonia", "ADM0_A3": "NCL", "NAME": "New Caledonia", "ABBREV": "New C.", "NAME_FORMA": "Territory of New Caledonia and Dependencies", "TERR_": "Fr.", "NAME_SORT": "New Caledonia", "ISO_A2": "NC", "ISO_A3": "NCL", "ISO_N3": 540.0 }, "geometry": { "type": "Point", "coordinates": [ 165.671585068705184, -21.293163569083241 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "SOVEREIGNT": "Niger", "SOV_A3": "NER", "ADMIN": "Niger", "ADM0_A3": "NER", "NAME": "Niger", "ABBREV": "Niger", "NAME_FORMA": "Republic of Niger", "TERR_": "", "NAME_SORT": "Niger", "ISO_A2": "NE", "ISO_A3": "NER", "ISO_N3": 562.0 }, "geometry": { "type": "Point", "coordinates": [ 9.386034471659803, 17.418464242184971 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "SOVEREIGNT": "Australia", "SOV_A3": "AU1", "ADMIN": "Norfolk Island", "ADM0_A3": "NFK", "NAME": "Norfolk Island", "ABBREV": "Nfk. I.", "NAME_FORMA": "Territory of Norfolk Island", "TERR_": "Auz.", "NAME_SORT": "Norfolk Island", "ISO_A2": "NF", "ISO_A3": "NFK", "ISO_N3": 574.0 }, "geometry": { "type": "Point", "coordinates": [ 167.955402355068912, -29.035107890520433 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "SOVEREIGNT": "Nigeria", "SOV_A3": "NGA", "ADMIN": "Nigeria", "ADM0_A3": "NGA", "NAME": "Nigeria", "ABBREV": "Nigeria", "NAME_FORMA": "Federal Republic of Nigeria", "TERR_": "", "NAME_SORT": "Nigeria", "ISO_A2": "NG", "ISO_A3": "NGA", "ISO_N3": 566.0 }, "geometry": { "type": "Point", "coordinates": [ 8.091504389270124, 9.596968120538664 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "SOVEREIGNT": "Nicaragua", "SOV_A3": "NIC", "ADMIN": "Nicaragua", "ADM0_A3": "NIC", "NAME": "Nicaragua", "ABBREV": "Nic.", "NAME_FORMA": "Republic of Nicaragua", "TERR_": "", "NAME_SORT": "Nicaragua", "ISO_A2": "NI", "ISO_A3": "NIC", "ISO_N3": 558.0 }, "geometry": { "type": "Point", "coordinates": [ -85.032836340941628, 12.845628119642226 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "SOVEREIGNT": "New Zealand", "SOV_A3": "NZ1", "ADMIN": "Niue", "ADM0_A3": "NIU", "NAME": "Niue", "ABBREV": "Niue", "NAME_FORMA": "", "TERR_": "Assoc. with N.Z.", "NAME_SORT": "Niue", "ISO_A2": "NU", "ISO_A3": "NIU", "ISO_N3": 570.0 }, "geometry": { "type": "Point", "coordinates": [ -169.868363343206539, -19.049071475717415 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "SOVEREIGNT": "Netherlands", "SOV_A3": "NL1", "ADMIN": "Netherlands", "ADM0_A3": "NLD", "NAME": "Netherlands", "ABBREV": "Neth.", "NAME_FORMA": "Kingdom of the Netherlands", "TERR_": "", "NAME_SORT": "Netherlands", "ISO_A2": "NL", "ISO_A3": "NLD", "ISO_N3": 528.0 }, "geometry": { "type": "Point", "coordinates": [ 5.214120541221845, 52.068120554957204 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "SOVEREIGNT": "Norway", "SOV_A3": "NOR", "ADMIN": "Norway", "ADM0_A3": "NOR", "NAME": "Norway", "ABBREV": "Nor.", "NAME_FORMA": "Kingdom of Norway", "TERR_": "", "NAME_SORT": "Norway", "ISO_A2": "NO", "ISO_A3": "NOR", "ISO_N3": 578.0 }, "geometry": { "type": "Point", "coordinates": [ 15.41245003459343, 68.796399715032251 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "SOVEREIGNT": "Nepal", "SOV_A3": "NPL", "ADMIN": "Nepal", "ADM0_A3": "NPL", "NAME": "Nepal", "ABBREV": "Nepal", "NAME_FORMA": "Kingdom of Nepal", "TERR_": "", "NAME_SORT": "Nepal", "ISO_A2": "NP", "ISO_A3": "NPL", "ISO_N3": 524.0 }, "geometry": { "type": "Point", "coordinates": [ 83.916253126359635, 28.247922304615294 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "SOVEREIGNT": "Nauru", "SOV_A3": "NRU", "ADMIN": "Nauru", "ADM0_A3": "NRU", "NAME": "Nauru", "ABBREV": "Nauru", "NAME_FORMA": "Republic of Nauru", "TERR_": "", "NAME_SORT": "Nauru", "ISO_A2": "NR", "ISO_A3": "NRU", "ISO_N3": 520.0 }, "geometry": { "type": "Point", "coordinates": [ 166.933309125531508, -0.520974575778927 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "SOVEREIGNT": "New Zealand", "SOV_A3": "NZ1", "ADMIN": "New Zealand", "ADM0_A3": "NZL", "NAME": "New Zealand", "ABBREV": "N.Z.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "New Zealand", "ISO_A2": "NZ", "ISO_A3": "NZL", "ISO_N3": 554.0 }, "geometry": { "type": "Point", "coordinates": [ 171.470135713709851, -41.825472433123437 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "SOVEREIGNT": "Oman", "SOV_A3": "OMN", "ADMIN": "Oman", "ADM0_A3": "OMN", "NAME": "Oman", "ABBREV": "Oman", "NAME_FORMA": "Sultanate of Oman", "TERR_": "", "NAME_SORT": "Oman", "ISO_A2": "OM", "ISO_A3": "OMN", "ISO_N3": 512.0 }, "geometry": { "type": "Point", "coordinates": [ 56.092798839905136, 20.600908401546057 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "SOVEREIGNT": "Pakistan", "SOV_A3": "PAK", "ADMIN": "Pakistan", "ADM0_A3": "PAK", "NAME": "Pakistan", "ABBREV": "Pak.", "NAME_FORMA": "Islamic Republic of Pakistan", "TERR_": "", "NAME_SORT": "Pakistan", "ISO_A2": "PK", "ISO_A3": "PAK", "ISO_N3": 586.0 }, "geometry": { "type": "Point", "coordinates": [ 69.341852143721596, 29.94883006063295 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "SOVEREIGNT": "Panama", "SOV_A3": "PAN", "ADMIN": "Panama", "ADM0_A3": "PAN", "NAME": "Panama", "ABBREV": "Pan.", "NAME_FORMA": "Republic of Panama", "TERR_": "", "NAME_SORT": "Panama", "ISO_A2": "PA", "ISO_A3": "PAN", "ISO_N3": 591.0 }, "geometry": { "type": "Point", "coordinates": [ -80.123916728490315, 8.510449795178802 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Pitcairn Islands", "ADM0_A3": "PCN", "NAME": "Pitcairn Is.", "ABBREV": "Pit. Is.", "NAME_FORMA": "Pitcairn, Henderson, Ducie and Oeno Islands", "TERR_": "U.K.", "NAME_SORT": "Pitcairn Islands", "ISO_A2": "PN", "ISO_A3": "PCN", "ISO_N3": 612.0 }, "geometry": { "type": "Point", "coordinates": [ -128.479181670948037, -24.412673463803927 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "SOVEREIGNT": "Peru", "SOV_A3": "PER", "ADMIN": "Peru", "ADM0_A3": "PER", "NAME": "Peru", "ABBREV": "Peru", "NAME_FORMA": "Republic of Peru", "TERR_": "", "NAME_SORT": "Peru", "ISO_A2": "PE", "ISO_A3": "PER", "ISO_N3": 604.0 }, "geometry": { "type": "Point", "coordinates": [ -74.381307072421478, -9.153539686384118 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "SOVEREIGNT": "Philippines", "SOV_A3": "PHL", "ADMIN": "Philippines", "ADM0_A3": "PHL", "NAME": "Philippines", "ABBREV": "Phil.", "NAME_FORMA": "Republic of the Philippines", "TERR_": "", "NAME_SORT": "Philippines", "ISO_A2": "PH", "ISO_A3": "PHL", "ISO_N3": 608.0 }, "geometry": { "type": "Point", "coordinates": [ 122.874713607117812, 11.763382767637971 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "SOVEREIGNT": "Palau", "SOV_A3": "PLW", "ADMIN": "Palau", "ADM0_A3": "PLW", "NAME": "Palau", "ABBREV": "Palau", "NAME_FORMA": "Republic of Palau", "TERR_": "", "NAME_SORT": "Palau", "ISO_A2": "PW", "ISO_A3": "PLW", "ISO_N3": 585.0 }, "geometry": { "type": "Point", "coordinates": [ 134.338313382257979, 7.173209960664072 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "SOVEREIGNT": "Papua New Guinea", "SOV_A3": "PNG", "ADMIN": "Papua New Guinea", "ADM0_A3": "PNG", "NAME": "Papua New Guinea", "ABBREV": "P.N.G.", "NAME_FORMA": "Independent State of Papua New Guinea", "TERR_": "", "NAME_SORT": "Papua New Guinea", "ISO_A2": "PG", "ISO_A3": "PNG", "ISO_N3": 598.0 }, "geometry": { "type": "Point", "coordinates": [ 145.227930351168084, -6.470358484937988 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "SOVEREIGNT": "Poland", "SOV_A3": "POL", "ADMIN": "Poland", "ADM0_A3": "POL", "NAME": "Poland", "ABBREV": "Pol.", "NAME_FORMA": "Republic of Poland", "TERR_": "", "NAME_SORT": "Poland", "ISO_A2": "PL", "ISO_A3": "POL", "ISO_N3": 616.0 }, "geometry": { "type": "Point", "coordinates": [ 19.394451119771993, 52.124671738306319 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "SOVEREIGNT": "United States of America", "SOV_A3": "US1", "ADMIN": "Puerto Rico", "ADM0_A3": "PRI", "NAME": "Puerto Rico", "ABBREV": "P.R.", "NAME_FORMA": "Commonwealth of Puerto Rico", "TERR_": "Commonwealth of U.S.A.", "NAME_SORT": "Puerto Rico", "ISO_A2": "PR", "ISO_A3": "PRI", "ISO_N3": 630.0 }, "geometry": { "type": "Point", "coordinates": [ -66.466396583828015, 18.225668350824893 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "SOVEREIGNT": "North Korea", "SOV_A3": "PRK", "ADMIN": "North Korea", "ADM0_A3": "PRK", "NAME": "N. Korea", "ABBREV": "N. Kor.", "NAME_FORMA": "Democratic People's Republic of Korea", "TERR_": "", "NAME_SORT": "Korea, North", "ISO_A2": "KP", "ISO_A3": "PRK", "ISO_N3": 408.0 }, "geometry": { "type": "Point", "coordinates": [ 127.187670146651115, 40.170375672537588 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "SOVEREIGNT": "Portugal", "SOV_A3": "PRT", "ADMIN": "Portugal", "ADM0_A3": "PRT", "NAME": "Portugal", "ABBREV": "Port.", "NAME_FORMA": "Portuguese Republic", "TERR_": "", "NAME_SORT": "Portugal", "ISO_A2": "PT", "ISO_A3": "PRT", "ISO_N3": 620.0 }, "geometry": { "type": "Point", "coordinates": [ -8.592089583180018, 39.585679811985912 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "SOVEREIGNT": "Paraguay", "SOV_A3": "PRY", "ADMIN": "Paraguay", "ADM0_A3": "PRY", "NAME": "Paraguay", "ABBREV": "Para.", "NAME_FORMA": "Republic of Paraguay", "TERR_": "", "NAME_SORT": "Paraguay", "ISO_A2": "PY", "ISO_A3": "PRY", "ISO_N3": 600.0 }, "geometry": { "type": "Point", "coordinates": [ -58.398422587904506, -23.227519001055015 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "French Polynesia", "ADM0_A3": "PYF", "NAME": "Fr. Polynesia", "ABBREV": "Fr. Poly.", "NAME_FORMA": "Territory of French Polynesia", "TERR_": "Fr.", "NAME_SORT": "French Polynesia", "ISO_A2": "PF", "ISO_A3": "PYF", "ISO_N3": 258.0 }, "geometry": { "type": "Point", "coordinates": [ -145.038589673079798, -15.170256370193014 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "SOVEREIGNT": "Qatar", "SOV_A3": "QAT", "ADMIN": "Qatar", "ADM0_A3": "QAT", "NAME": "Qatar", "ABBREV": "Qatar", "NAME_FORMA": "State of Qatar", "TERR_": "", "NAME_SORT": "Qatar", "ISO_A2": "QA", "ISO_A3": "QAT", "ISO_N3": 634.0 }, "geometry": { "type": "Point", "coordinates": [ 51.187564963886203, 25.312777252195634 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "SOVEREIGNT": "Romania", "SOV_A3": "ROU", "ADMIN": "Romania", "ADM0_A3": "ROU", "NAME": "Romania", "ABBREV": "Rom.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Romania", "ISO_A2": "RO", "ISO_A3": "ROU", "ISO_N3": 642.0 }, "geometry": { "type": "Point", "coordinates": [ 24.97309938441165, 45.853412544039372 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "SOVEREIGNT": "Russia", "SOV_A3": "RUS", "ADMIN": "Russia", "ADM0_A3": "RUS", "NAME": "Russia", "ABBREV": "Rus.", "NAME_FORMA": "Russian Federation", "TERR_": "", "NAME_SORT": "Russia", "ISO_A2": "RU", "ISO_A3": "RUS", "ISO_N3": 643.0 }, "geometry": { "type": "Point", "coordinates": [ 96.688981142633182, 61.983470770826102 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "SOVEREIGNT": "Rwanda", "SOV_A3": "RWA", "ADMIN": "Rwanda", "ADM0_A3": "RWA", "NAME": "Rwanda", "ABBREV": "Rwa.", "NAME_FORMA": "Rwandese Republic", "TERR_": "", "NAME_SORT": "Rwanda", "ISO_A2": "RW", "ISO_A3": "RWA", "ISO_N3": 646.0 }, "geometry": { "type": "Point", "coordinates": [ 29.919060739736821, -1.99275046821626 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "SOVEREIGNT": "Western Sahara", "SOV_A3": "SAH", "ADMIN": "Western Sahara", "ADM0_A3": "SAH", "NAME": "W. Sahara", "ABBREV": "W. Sah.", "NAME_FORMA": "", "TERR_": "Disputed", "NAME_SORT": "Western Sahara", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ -12.214726467885972, 24.232711612726334 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "SOVEREIGNT": "Saudi Arabia", "SOV_A3": "SAU", "ADMIN": "Saudi Arabia", "ADM0_A3": "SAU", "NAME": "Saudi Arabia", "ABBREV": "Saud.", "NAME_FORMA": "Kingdom of Saudi Arabia", "TERR_": "", "NAME_SORT": "Saudi Arabia", "ISO_A2": "SA", "ISO_A3": "SAU", "ISO_N3": 682.0 }, "geometry": { "type": "Point", "coordinates": [ 44.537759194140648, 24.122443747780636 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "SOVEREIGNT": "Sudan", "SOV_A3": "SDN", "ADMIN": "Sudan", "ADM0_A3": "SDN", "NAME": "Sudan", "ABBREV": "Sudan", "NAME_FORMA": "Republic of the Sudan", "TERR_": "", "NAME_SORT": "Sudan", "ISO_A2": "SD", "ISO_A3": "SDN", "ISO_N3": 729.0 }, "geometry": { "type": "Point", "coordinates": [ 29.939383334554943, 15.986757495208975 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "SOVEREIGNT": "South Sudan", "SOV_A3": "SDS", "ADMIN": "South Sudan", "ADM0_A3": "SDS", "NAME": "S. Sudan", "ABBREV": "S. Sud.", "NAME_FORMA": "Republic of South Sudan", "TERR_": "", "NAME_SORT": "South Sudan", "ISO_A2": "SS", "ISO_A3": "SSD", "ISO_N3": 728.0 }, "geometry": { "type": "Point", "coordinates": [ 30.251066032541118, 7.305706078081945 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "SOVEREIGNT": "Senegal", "SOV_A3": "SEN", "ADMIN": "Senegal", "ADM0_A3": "SEN", "NAME": "Senegal", "ABBREV": "Sen.", "NAME_FORMA": "Republic of Senegal", "TERR_": "", "NAME_SORT": "Senegal", "ISO_A2": "SN", "ISO_A3": "SEN", "ISO_N3": 686.0 }, "geometry": { "type": "Point", "coordinates": [ -14.471029890203488, 14.367794084743469 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "SOVEREIGNT": "Singapore", "SOV_A3": "SGP", "ADMIN": "Singapore", "ADM0_A3": "SGP", "NAME": "Singapore", "ABBREV": "Sing.", "NAME_FORMA": "Republic of Singapore", "TERR_": "", "NAME_SORT": "Singapore", "ISO_A2": "SG", "ISO_A3": "SGP", "ISO_N3": 702.0 }, "geometry": { "type": "Point", "coordinates": [ 103.813797216789908, 1.358790814625883 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "South Georgia and South Sandwich Islands", "ADM0_A3": "SGS", "NAME": "S. Geo. and S. Sandw. Is.", "ABBREV": "S.G. S.S. Is.", "NAME_FORMA": "South Georgia and South Sandwich Islands", "TERR_": "U.K.", "NAME_SORT": "South Georgia and the Islands", "ISO_A2": "GS", "ISO_A3": "SGS", "ISO_N3": 239.0 }, "geometry": { "type": "Point", "coordinates": [ -35.897506854155665, -54.676845329805715 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Saint Helena", "ADM0_A3": "SHN", "NAME": "Saint Helena", "ABBREV": "St.H.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Saint Helena", "ISO_A2": "SH", "ISO_A3": "SHN", "ISO_N3": 654.0 }, "geometry": { "type": "Point", "coordinates": [ -10.13801583235651, -24.905390258486531 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "SOVEREIGNT": "Solomon Islands", "SOV_A3": "SLB", "ADMIN": "Solomon Islands", "ADM0_A3": "SLB", "NAME": "Solomon Is.", "ABBREV": "S. Is.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Solomon Islands", "ISO_A2": "SB", "ISO_A3": "SLB", "ISO_N3": 90.0 }, "geometry": { "type": "Point", "coordinates": [ 159.616703216711869, -8.901954222050374 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "SOVEREIGNT": "Sierra Leone", "SOV_A3": "SLE", "ADMIN": "Sierra Leone", "ADM0_A3": "SLE", "NAME": "Sierra Leone", "ABBREV": "S.L.", "NAME_FORMA": "Republic of Sierra Leone", "TERR_": "", "NAME_SORT": "Sierra Leone", "ISO_A2": "SL", "ISO_A3": "SLE", "ISO_N3": 694.0 }, "geometry": { "type": "Point", "coordinates": [ -11.794830312657174, 8.563160897227126 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "SOVEREIGNT": "El Salvador", "SOV_A3": "SLV", "ADMIN": "El Salvador", "ADM0_A3": "SLV", "NAME": "El Salvador", "ABBREV": "El. S.", "NAME_FORMA": "Republic of El Salvador", "TERR_": "", "NAME_SORT": "El Salvador", "ISO_A2": "SV", "ISO_A3": "SLV", "ISO_N3": 222.0 }, "geometry": { "type": "Point", "coordinates": [ -88.869261296891935, 13.736704055934183 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "SOVEREIGNT": "San Marino", "SOV_A3": "SMR", "ADMIN": "San Marino", "ADM0_A3": "SMR", "NAME": "San Marino", "ABBREV": "S.M.", "NAME_FORMA": "Republic of San Marino", "TERR_": "", "NAME_SORT": "San Marino", "ISO_A2": "SM", "ISO_A3": "SMR", "ISO_N3": 674.0 }, "geometry": { "type": "Point", "coordinates": [ 12.442164485227835, 43.936759008495514 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "SOVEREIGNT": "Somaliland", "SOV_A3": "SOL", "ADMIN": "Somaliland", "ADM0_A3": "SOL", "NAME": "Somaliland", "ABBREV": "Solnd.", "NAME_FORMA": "Republic of Somaliland", "TERR_": "", "NAME_SORT": "Somaliland", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 46.252761028984573, 9.731796937954782 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "SOVEREIGNT": "Somalia", "SOV_A3": "SOM", "ADMIN": "Somalia", "ADM0_A3": "SOM", "NAME": "Somalia", "ABBREV": "Som.", "NAME_FORMA": "Federal Republic of Somalia", "TERR_": "", "NAME_SORT": "Somalia", "ISO_A2": "SO", "ISO_A3": "SOM", "ISO_N3": 706.0 }, "geometry": { "type": "Point", "coordinates": [ 45.705310912641735, 4.747511450833239 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "Saint Pierre and Miquelon", "ADM0_A3": "SPM", "NAME": "St. Pierre and Miquelon", "ABBREV": "St. P.M.", "NAME_FORMA": "Territorial Collectivity of Saint Pierre and Miquelon", "TERR_": "Fr.", "NAME_SORT": "Saint Pierre and Miquelon", "ISO_A2": "PM", "ISO_A3": "SPM", "ISO_N3": 666.0 }, "geometry": { "type": "Point", "coordinates": [ -56.307097026820408, 46.930190503227294 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "SOVEREIGNT": "Republic of Serbia", "SOV_A3": "SRB", "ADMIN": "Republic of Serbia", "ADM0_A3": "SRB", "NAME": "Serbia", "ABBREV": "Serb.", "NAME_FORMA": "Republic of Serbia", "TERR_": "", "NAME_SORT": "Serbia", "ISO_A2": "RS", "ISO_A3": "SRB", "ISO_N3": 688.0 }, "geometry": { "type": "Point", "coordinates": [ 20.790325882612212, 44.221403558797817 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "SOVEREIGNT": "Sao Tome and Principe", "SOV_A3": "STP", "ADMIN": "Sao Tome and Principe", "ADM0_A3": "STP", "NAME": "Sao Tome and Principe", "ABBREV": "S.T.P.", "NAME_FORMA": "Democratic Republic of Sao Tome and Principe", "TERR_": "", "NAME_SORT": "Sao Tome and Principe", "ISO_A2": "ST", "ISO_A3": "STP", "ISO_N3": 678.0 }, "geometry": { "type": "Point", "coordinates": [ 6.726957834922534, 0.444039454432847 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "SOVEREIGNT": "Suriname", "SOV_A3": "SUR", "ADMIN": "Suriname", "ADM0_A3": "SUR", "NAME": "Suriname", "ABBREV": "Sur.", "NAME_FORMA": "Republic of Suriname", "TERR_": "", "NAME_SORT": "Suriname", "ISO_A2": "SR", "ISO_A3": "SUR", "ISO_N3": 740.0 }, "geometry": { "type": "Point", "coordinates": [ -55.91213615381713, 4.128480576544097 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "SOVEREIGNT": "Slovakia", "SOV_A3": "SVK", "ADMIN": "Slovakia", "ADM0_A3": "SVK", "NAME": "Slovakia", "ABBREV": "Svk.", "NAME_FORMA": "Slovak Republic", "TERR_": "", "NAME_SORT": "Slovakia", "ISO_A2": "SK", "ISO_A3": "SVK", "ISO_N3": 703.0 }, "geometry": { "type": "Point", "coordinates": [ 19.480382916441421, 48.704935037462661 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "SOVEREIGNT": "Slovenia", "SOV_A3": "SVN", "ADMIN": "Slovenia", "ADM0_A3": "SVN", "NAME": "Slovenia", "ABBREV": "Slo.", "NAME_FORMA": "Republic of Slovenia", "TERR_": "", "NAME_SORT": "Slovenia", "ISO_A2": "SI", "ISO_A3": "SVN", "ISO_N3": 705.0 }, "geometry": { "type": "Point", "coordinates": [ 14.808139267412205, 46.11613586809375 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "SOVEREIGNT": "Sweden", "SOV_A3": "SWE", "ADMIN": "Sweden", "ADM0_A3": "SWE", "NAME": "Sweden", "ABBREV": "Swe.", "NAME_FORMA": "Kingdom of Sweden", "TERR_": "", "NAME_SORT": "Sweden", "ISO_A2": "SE", "ISO_A3": "SWE", "ISO_N3": 752.0 }, "geometry": { "type": "Point", "coordinates": [ 16.752893983521552, 62.789173870825323 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "SOVEREIGNT": "Swaziland", "SOV_A3": "SWZ", "ADMIN": "Swaziland", "ADM0_A3": "SWZ", "NAME": "Swaziland", "ABBREV": "Swz.", "NAME_FORMA": "Kingdom of Swaziland", "TERR_": "", "NAME_SORT": "Swaziland", "ISO_A2": "SZ", "ISO_A3": "SWZ", "ISO_N3": 748.0 }, "geometry": { "type": "Point", "coordinates": [ 31.480024102989614, -26.561914348913543 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "SOVEREIGNT": "Netherlands", "SOV_A3": "NL1", "ADMIN": "Sint Maarten", "ADM0_A3": "SXM", "NAME": "Sint Maarten", "ABBREV": "St. M.", "NAME_FORMA": "", "TERR_": "Neth.", "NAME_SORT": "Netherlands Antilles", "ISO_A2": "SX", "ISO_A3": "SXM", "ISO_N3": 534.0 }, "geometry": { "type": "Point", "coordinates": [ -63.069636229161354, 18.040429950273559 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "SOVEREIGNT": "Seychelles", "SOV_A3": "SYC", "ADMIN": "Seychelles", "ADM0_A3": "SYC", "NAME": "Seychelles", "ABBREV": "Syc.", "NAME_FORMA": "Republic of Seychelles", "TERR_": "", "NAME_SORT": "Seychelles", "ISO_A2": "SC", "ISO_A3": "SYC", "ISO_N3": 690.0 }, "geometry": { "type": "Point", "coordinates": [ 51.882275458479832, -6.590675292999237 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "SOVEREIGNT": "Syria", "SOV_A3": "SYR", "ADMIN": "Syria", "ADM0_A3": "SYR", "NAME": "Syria", "ABBREV": "Syria", "NAME_FORMA": "Syrian Arab Republic", "TERR_": "", "NAME_SORT": "Syria", "ISO_A2": "SY", "ISO_A3": "SYR", "ISO_N3": 760.0 }, "geometry": { "type": "Point", "coordinates": [ 38.504648565995303, 35.022993231882332 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Turks and Caicos Islands", "ADM0_A3": "TCA", "NAME": "Turks and Caicos Is.", "ABBREV": "T.C. Is.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Turks and Caicos Islands", "ISO_A2": "TC", "ISO_A3": "TCA", "ISO_N3": 796.0 }, "geometry": { "type": "Point", "coordinates": [ -71.872605976784385, 21.779877021132538 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "SOVEREIGNT": "Chad", "SOV_A3": "TCD", "ADMIN": "Chad", "ADM0_A3": "TCD", "NAME": "Chad", "ABBREV": "Chad", "NAME_FORMA": "Republic of Chad", "TERR_": "", "NAME_SORT": "Chad", "ISO_A2": "TD", "ISO_A3": "TCD", "ISO_N3": 148.0 }, "geometry": { "type": "Point", "coordinates": [ 18.64625134931071, 15.333077614679926 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "SOVEREIGNT": "Togo", "SOV_A3": "TGO", "ADMIN": "Togo", "ADM0_A3": "TGO", "NAME": "Togo", "ABBREV": "Togo", "NAME_FORMA": "Togolese Republic", "TERR_": "", "NAME_SORT": "Togo", "ISO_A2": "TG", "ISO_A3": "TGO", "ISO_N3": 768.0 }, "geometry": { "type": "Point", "coordinates": [ 0.962283574103446, 8.526720835598082 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "SOVEREIGNT": "Thailand", "SOV_A3": "THA", "ADMIN": "Thailand", "ADM0_A3": "THA", "NAME": "Thailand", "ABBREV": "Thai.", "NAME_FORMA": "Kingdom of Thailand", "TERR_": "", "NAME_SORT": "Thailand", "ISO_A2": "TH", "ISO_A3": "THA", "ISO_N3": 764.0 }, "geometry": { "type": "Point", "coordinates": [ 101.003318153745511, 15.114081766555124 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "SOVEREIGNT": "Tajikistan", "SOV_A3": "TJK", "ADMIN": "Tajikistan", "ADM0_A3": "TJK", "NAME": "Tajikistan", "ABBREV": "Tjk.", "NAME_FORMA": "Republic of Tajikistan", "TERR_": "", "NAME_SORT": "Tajikistan", "ISO_A2": "TJ", "ISO_A3": "TJK", "ISO_N3": 762.0 }, "geometry": { "type": "Point", "coordinates": [ 71.015822436015299, 38.529889564901133 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "SOVEREIGNT": "Turkmenistan", "SOV_A3": "TKM", "ADMIN": "Turkmenistan", "ADM0_A3": "TKM", "NAME": "Turkmenistan", "ABBREV": "Turkm.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Turkmenistan", "ISO_A2": "TM", "ISO_A3": "TKM", "ISO_N3": 795.0 }, "geometry": { "type": "Point", "coordinates": [ 59.376142627043336, 39.115933893261328 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "SOVEREIGNT": "East Timor", "SOV_A3": "TLS", "ADMIN": "East Timor", "ADM0_A3": "TLS", "NAME": "East Timor", "ABBREV": "E.T.", "NAME_FORMA": "East Timor (Timor Leste)", "TERR_": "", "NAME_SORT": "East Timor (Timor Leste)", "ISO_A2": "TL", "ISO_A3": "TLS", "ISO_N3": 626.0 }, "geometry": { "type": "Point", "coordinates": [ 125.851376907912808, -8.823932620478384 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "SOVEREIGNT": "Tonga", "SOV_A3": "TON", "ADMIN": "Tonga", "ADM0_A3": "TON", "NAME": "Tonga", "ABBREV": "Tongo", "NAME_FORMA": "Kingdom of Tonga", "TERR_": "", "NAME_SORT": "Tonga", "ISO_A2": "TO", "ISO_A3": "TON", "ISO_N3": 776.0 }, "geometry": { "type": "Point", "coordinates": [ -174.840712555713537, -19.968806464121876 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "SOVEREIGNT": "Trinidad and Tobago", "SOV_A3": "TTO", "ADMIN": "Trinidad and Tobago", "ADM0_A3": "TTO", "NAME": "Trinidad and Tobago", "ABBREV": "Tr.T.", "NAME_FORMA": "Republic of Trinidad and Tobago", "TERR_": "", "NAME_SORT": "Trinidad and Tobago", "ISO_A2": "TT", "ISO_A3": "TTO", "ISO_N3": 780.0 }, "geometry": { "type": "Point", "coordinates": [ -61.257717918005966, 10.468660055959282 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "SOVEREIGNT": "Tunisia", "SOV_A3": "TUN", "ADMIN": "Tunisia", "ADM0_A3": "TUN", "NAME": "Tunisia", "ABBREV": "Tun.", "NAME_FORMA": "Republic of Tunisia", "TERR_": "", "NAME_SORT": "Tunisia", "ISO_A2": "TN", "ISO_A3": "TUN", "ISO_N3": 788.0 }, "geometry": { "type": "Point", "coordinates": [ 9.551855704714965, 34.115908624759356 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "SOVEREIGNT": "Turkey", "SOV_A3": "TUR", "ADMIN": "Turkey", "ADM0_A3": "TUR", "NAME": "Turkey", "ABBREV": "Tur.", "NAME_FORMA": "Republic of Turkey", "TERR_": "", "NAME_SORT": "Turkey", "ISO_A2": "TR", "ISO_A3": "TUR", "ISO_N3": 792.0 }, "geometry": { "type": "Point", "coordinates": [ 35.167313410871756, 39.060957862458906 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "SOVEREIGNT": "Tuvalu", "SOV_A3": "TUV", "ADMIN": "Tuvalu", "ADM0_A3": "TUV", "NAME": "Tuvalu", "ABBREV": "Tuv.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Tuvalu", "ISO_A2": "TV", "ISO_A3": "TUV", "ISO_N3": 798.0 }, "geometry": { "type": "Point", "coordinates": [ 178.51989489405284, -7.760058290045873 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "SOVEREIGNT": "Taiwan", "SOV_A3": "TWN", "ADMIN": "Taiwan", "ADM0_A3": "TWN", "NAME": "Taiwan", "ABBREV": "Taiwan", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Taiwan", "ISO_A2": "TW", "ISO_A3": "TWN", "ISO_N3": 158.0 }, "geometry": { "type": "Point", "coordinates": [ 120.950800872020736, 23.752419699854656 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "SOVEREIGNT": "United Republic of Tanzania", "SOV_A3": "TZA", "ADMIN": "United Republic of Tanzania", "ADM0_A3": "TZA", "NAME": "Tanzania", "ABBREV": "Tanz.", "NAME_FORMA": "United Republic of Tanzania", "TERR_": "", "NAME_SORT": "Tanzania", "ISO_A2": "TZ", "ISO_A3": "TZA", "ISO_N3": 834.0 }, "geometry": { "type": "Point", "coordinates": [ 34.813145614750852, -6.275050274287713 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "SOVEREIGNT": "Uganda", "SOV_A3": "UGA", "ADMIN": "Uganda", "ADM0_A3": "UGA", "NAME": "Uganda", "ABBREV": "Uga.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Uganda", "ISO_A2": "UG", "ISO_A3": "UGA", "ISO_N3": 800.0 }, "geometry": { "type": "Point", "coordinates": [ 32.367039846993308, 1.275691185383742 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "SOVEREIGNT": "Ukraine", "SOV_A3": "UKR", "ADMIN": "Ukraine", "ADM0_A3": "UKR", "NAME": "Ukraine", "ABBREV": "Ukr.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Ukraine", "ISO_A2": "UA", "ISO_A3": "UKR", "ISO_N3": 804.0 }, "geometry": { "type": "Point", "coordinates": [ 31.385854972587335, 48.99724977673354 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "SOVEREIGNT": "United States of America", "SOV_A3": "US1", "ADMIN": "United States Minor Outlying Islands", "ADM0_A3": "UMI", "NAME": "U.S. Minor Outlying Is.", "ABBREV": "U.S. MOI", "NAME_FORMA": "", "TERR_": "U.S.A.", "NAME_SORT": "United States Minor Outlying Islands", "ISO_A2": "UM", "ISO_A3": "UMI", "ISO_N3": 581.0 }, "geometry": { "type": "Point", "coordinates": [ -97.142597349151075, 14.024302336919229 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "SOVEREIGNT": "Uruguay", "SOV_A3": "URY", "ADMIN": "Uruguay", "ADM0_A3": "URY", "NAME": "Uruguay", "ABBREV": "Ury.", "NAME_FORMA": "Oriental Republic of Uruguay", "TERR_": "", "NAME_SORT": "Uruguay", "ISO_A2": "UY", "ISO_A3": "URY", "ISO_N3": 858.0 }, "geometry": { "type": "Point", "coordinates": [ -56.017560147626426, -32.800172874240801 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "SOVEREIGNT": "United States of America", "SOV_A3": "US1", "ADMIN": "United States of America", "ADM0_A3": "USA", "NAME": "United States", "ABBREV": "U.S.A.", "NAME_FORMA": "United States of America", "TERR_": "", "NAME_SORT": "United States of America", "ISO_A2": "US", "ISO_A3": "USA", "ISO_N3": 840.0 }, "geometry": { "type": "Point", "coordinates": [ -112.493106683425054, 45.687159612800968 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "SOVEREIGNT": "Cuba", "SOV_A3": "USG", "ADMIN": "US Naval Base Guantanamo Bay", "ADM0_A3": "USG", "NAME": "Guantanamo Bay USNB", "ABBREV": "G. Bay", "NAME_FORMA": "US Naval Base Guantanamo Bay", "TERR_": "Leased by U.S.A. from Cuba", "NAME_SORT": "Guantanamo Bay, US Naval Base", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ -75.153292157442337, 19.922391239513821 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "SOVEREIGNT": "Uzbekistan", "SOV_A3": "UZB", "ADMIN": "Uzbekistan", "ADM0_A3": "UZB", "NAME": "Uzbekistan", "ABBREV": "Uzb.", "NAME_FORMA": "Republic of Uzbekistan", "TERR_": "", "NAME_SORT": "Uzbekistan", "ISO_A2": "UZ", "ISO_A3": "UZB", "ISO_N3": 860.0 }, "geometry": { "type": "Point", "coordinates": [ 63.139908890288574, 41.756035918827635 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "SOVEREIGNT": "Vatican", "SOV_A3": "VAT", "ADMIN": "Vatican", "ADM0_A3": "VAT", "NAME": "Vatican", "ABBREV": "Vat.", "NAME_FORMA": "State of the Vatican City", "TERR_": "", "NAME_SORT": "Vatican (Holy Sea)", "ISO_A2": "VA", "ISO_A3": "VAT", "ISO_N3": 336.0 }, "geometry": { "type": "Point", "coordinates": [ 12.451550814042184, 41.903827221889536 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "SOVEREIGNT": "Saint Vincent and the Grenadines", "SOV_A3": "VCT", "ADMIN": "Saint Vincent and the Grenadines", "ADM0_A3": "VCT", "NAME": "St. Vin. and Gren.", "ABBREV": "St.V.G.", "NAME_FORMA": "", "TERR_": "", "NAME_SORT": "Saint Vincent and the Grenadines", "ISO_A2": "VC", "ISO_A3": "VCT", "ISO_N3": 670.0 }, "geometry": { "type": "Point", "coordinates": [ -61.202641796722688, 13.216083341436512 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "SOVEREIGNT": "Venezuela", "SOV_A3": "VEN", "ADMIN": "Venezuela", "ADM0_A3": "VEN", "NAME": "Venezuela", "ABBREV": "Ven.", "NAME_FORMA": "Bolivarian Republic of Venezuela", "TERR_": "", "NAME_SORT": "Venezuela", "ISO_A2": "VE", "ISO_A3": "VEN", "ISO_N3": 862.0 }, "geometry": { "type": "Point", "coordinates": [ -66.176721660892042, 7.125002727865108 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "British Virgin Islands", "ADM0_A3": "VGB", "NAME": "British Virgin Is.", "ABBREV": "V.I. (Br.)", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "British Virgin Islands", "ISO_A2": "VG", "ISO_A3": "VGB", "ISO_N3": 92.0 }, "geometry": { "type": "Point", "coordinates": [ -64.498927431269138, 18.514114247333939 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "SOVEREIGNT": "United States of America", "SOV_A3": "US1", "ADMIN": "United States Virgin Islands", "ADM0_A3": "VIR", "NAME": "U.S. Virgin Is.", "ABBREV": "V.I. (U.S.)", "NAME_FORMA": "Virgin Islands of the United States", "TERR_": "U.S.A.", "NAME_SORT": "United States Virgin Islands", "ISO_A2": "VI", "ISO_A3": "VIR", "ISO_N3": 850.0 }, "geometry": { "type": "Point", "coordinates": [ -64.790160150532969, 17.959079140696875 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "SOVEREIGNT": "Vietnam", "SOV_A3": "VNM", "ADMIN": "Vietnam", "ADM0_A3": "VNM", "NAME": "Vietnam", "ABBREV": "Viet.", "NAME_FORMA": "Socialist Republic of Vietnam", "TERR_": "", "NAME_SORT": "Vietnam", "ISO_A2": "VN", "ISO_A3": "VNM", "ISO_N3": 704.0 }, "geometry": { "type": "Point", "coordinates": [ 106.30129603415412, 16.641605601425411 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "SOVEREIGNT": "Vanuatu", "SOV_A3": "VUT", "ADMIN": "Vanuatu", "ADM0_A3": "VUT", "NAME": "Vanuatu", "ABBREV": "Van.", "NAME_FORMA": "Republic of Vanuatu", "TERR_": "", "NAME_SORT": "Vanuatu", "ISO_A2": "VU", "ISO_A3": "VUT", "ISO_N3": 548.0 }, "geometry": { "type": "Point", "coordinates": [ 167.701058363106881, -16.201437158000601 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "SOVEREIGNT": "Palestine", "SOV_A3": "PSE", "ADMIN": "West Bank", "ADM0_A3": "WEB", "NAME": "West Bank", "ABBREV": "W.B.", "NAME_FORMA": "West Bank", "TERR_": "", "NAME_SORT": "West Bank", "ISO_A2": "PS", "ISO_A3": "PSE", "ISO_N3": 275.0 }, "geometry": { "type": "Point", "coordinates": [ 35.244955722055984, 31.945385436699311 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "SOVEREIGNT": "France", "SOV_A3": "FR1", "ADMIN": "Wallis and Futuna", "ADM0_A3": "WLF", "NAME": "Wallis and Futuna", "ABBREV": "Wlf.", "NAME_FORMA": "Territory of the Wallis and Futuna Islands", "TERR_": "Fr.", "NAME_SORT": "Wallis and Futuna", "ISO_A2": "WF", "ISO_A3": "WLF", "ISO_N3": 876.0 }, "geometry": { "type": "Point", "coordinates": [ -177.229019026234909, -13.847131506764319 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "SOVEREIGNT": "United Kingdom", "SOV_A3": "GB1", "ADMIN": "Akrotiri Sovereign Base Area", "ADM0_A3": "WSB", "NAME": "Akrotiri", "ABBREV": "Akr.", "NAME_FORMA": "", "TERR_": "U.K.", "NAME_SORT": "Akrotiri Sovereign Base Area", "ISO_A2": "-99", "ISO_A3": "-99", "ISO_N3": -99.0 }, "geometry": { "type": "Point", "coordinates": [ 32.934053426315607, 34.631679350019745 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "SOVEREIGNT": "Samoa", "SOV_A3": "WSM", "ADMIN": "Samoa", "ADM0_A3": "WSM", "NAME": "Samoa", "ABBREV": "Samoa", "NAME_FORMA": "Independent State of Samoa", "TERR_": "", "NAME_SORT": "Samoa", "ISO_A2": "WS", "ISO_A3": "WSM", "ISO_N3": 882.0 }, "geometry": { "type": "Point", "coordinates": [ -172.160277813767493, -13.75467623931616 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "SOVEREIGNT": "Yemen", "SOV_A3": "YEM", "ADMIN": "Yemen", "ADM0_A3": "YEM", "NAME": "Yemen", "ABBREV": "Yem.", "NAME_FORMA": "Republic of Yemen", "TERR_": "", "NAME_SORT": "Yemen", "ISO_A2": "YE", "ISO_A3": "YEM", "ISO_N3": 887.0 }, "geometry": { "type": "Point", "coordinates": [ 47.590930618688262, 15.905154588239983 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "SOVEREIGNT": "South Africa", "SOV_A3": "ZAF", "ADMIN": "South Africa", "ADM0_A3": "ZAF", "NAME": "South Africa", "ABBREV": "S.Af.", "NAME_FORMA": "Republic of South Africa", "TERR_": "", "NAME_SORT": "South Africa", "ISO_A2": "ZA", "ISO_A3": "ZAF", "ISO_N3": 710.0 }, "geometry": { "type": "Point", "coordinates": [ 25.087732923858276, -29.001051883347554 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "SOVEREIGNT": "Zambia", "SOV_A3": "ZMB", "ADMIN": "Zambia", "ADM0_A3": "ZMB", "NAME": "Zambia", "ABBREV": "Zambia", "NAME_FORMA": "Republic of Zambia", "TERR_": "", "NAME_SORT": "Zambia", "ISO_A2": "ZM", "ISO_A3": "ZMB", "ISO_N3": 894.0 }, "geometry": { "type": "Point", "coordinates": [ 27.774212334822977, -13.460110018388793 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "SOVEREIGNT": "Zimbabwe", "SOV_A3": "ZWE", "ADMIN": "Zimbabwe", "ADM0_A3": "ZWE", "NAME": "Zimbabwe", "ABBREV": "Zimb.", "NAME_FORMA": "Republic of Zimbabwe", "TERR_": "", "NAME_SORT": "Zimbabwe", "ISO_A2": "ZW", "ISO_A3": "ZWE", "ISO_N3": 716.0 }, "geometry": { "type": "Point", "coordinates": [ 29.85188462058138, -19.002536710042463 ] } }
+
+]
+}
