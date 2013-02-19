@@ -2,6 +2,8 @@
 
 The UNHCR Situation Map is a template microsite designed by [Development Seed](http://developmentseed.org). This site is available at <http://unhcr.github.com/situation-map>.
 
+See `data/README.md` and `working-folder/README.md` for further information about the data powering the site. 
+
 ## System requirements
 
 *For running the site locally and updating data.*
