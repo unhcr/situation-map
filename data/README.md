@@ -4,7 +4,7 @@ Data to be used within the site should be formatted in the following way, using 
 
 ### Population of Concern data
 *For the regional or emergency level (Country=0) views of the data, settlement numbers should be formatted as follows:*
-```
+``` json
 {
     "type": "FeatureCollection",
     "features": [
@@ -35,7 +35,7 @@ Data to be used within the site should be formatted in the following way, using 
 ```
 
 ### Relief Activities 
-```
+``` json
 {
     "type": "FeatureCollection",
     "features": [
@@ -98,7 +98,7 @@ Data to be used within the site should be formatted in the following way, using 
 
 ### Infrastructure 
 
-```
+``` json
 {
     "type": "FeatureCollection",
     "features": [
