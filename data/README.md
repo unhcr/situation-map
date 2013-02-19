@@ -24,7 +24,7 @@ Data to be used within the site should be formatted in the following way, using 
 				"DEM_511_F": 193, 
 				"DEM_511_M": 179, 
 				"DEM_60_F": 23, 
-				"DEM_60_M": 18
+				"DEM_60_M": 18,
               	"totalhh": 527, 
               	"totalrefpop": 2781,
               	"icon": "https://dl.dropbox.com/u/29368453/camp-bg-30px.png"
