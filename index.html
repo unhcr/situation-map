@@ -20,11 +20,13 @@
 
 <body>
   <div id='fs'>
-  
+    
+    <!-- Sets up layers menu -->
     <div id='layers'></div>
   
     <div id='map'></div>
     
+    <!-- Base layer toggles on upper right -->
     <div id='toggles'>
       <a href='#' class='upper active' data-type='basemap' data-toggle='terrain'>Terrain</a>
       <a href='#' class='lower' data-type='basemap' data-toggle='satellite'>Satellite</a>
@@ -33,11 +35,13 @@
       <a href='#' class='lower' data-type='borders' data-toggle='streets'>Streets</a>
     </div>
     
+    <!-- Full screen button -->
     <a href='#' id='fsbutton' class='map-fullscreen' alt='Toggle Fullscreen'></a>
     <div id='fslabel'>Toggle Fullscreen</div>
     
     <div id='chart-temp' style='width: 300px; height: 125px;'></div>
     
+    <!-- Tree map for Relief Activities layer -->
     <div id='treetip'>
       <div class='treetip-title'></div>
       <div class='treetip-stat'></div>

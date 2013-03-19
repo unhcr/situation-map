@@ -1,21 +1,22 @@
+/* Function waits til page loads to run */ 
 $(function() {
-    
+    /* Create a layers menu from a list of layers, assigns menu items in order with specified data. */
     var layers = [
             {
                 title: 'Refugee Populations',
-                data: 'unhcr-refugees-bysettlement-mali.geojson',
+                data: 'data/unhcr-refugees-bysettlement-mali.geojson',
                 scale: 'totalrefpop',
                 tooltip: 'population',
-                active: true
+                active: true /* Sets this layer as the default layer. */
             },
             {
                 title: 'Settlement Locations',
-                data: 'unhcr-refugees-bysettlement-mali.geojson',
+                data: 'data/unhcr-refugees-bysettlement-mali.geojson',
                 tooltip: 'population'
             },
             {
                 title: 'Relief Activities',
-                data: 'unhcr-relief-3w-mali.geojson',
+                data: 'http://developmentseed.org/unhcr-situation/data/unhcr-relief-3w-mali.json&callback=?',
                 scale: 'num_partners',
                 tooltip: 'relief'
             },
@@ -30,7 +31,7 @@ $(function() {
             },
             {
                 title: 'Infrastructure',
-                data: null,
+                data: null,                 /* a null value will grey out the button in the menu */
                 tooltip: 'infrastructure'
             },
             {
@@ -38,11 +39,11 @@ $(function() {
                 map: 'unhcr.unhcr-global-offices'
             }
         ],
-        basemap = {
+        basemap = {         /* Sets up the base map toggle */
             satellite: 'unhcr.map-zdgpcmtu,unhcr.unhcr-global-emergency-countries', 
             terrain: 'unhcr.map-0wl8cuf8,unhcr.unhcr-global-emergency-countries' 
         },
-        borders = {
+        borders = {         /* Sets up the borders toggle */
             un: 'unhcr.Borders,unhcr.unhcr-situation-border-buffer',
             streets: 'unhcr.map-9hudy8xp' 
         },
@@ -124,7 +125,7 @@ $(function() {
                 if (curLayer.json) {
                     addMarkers(curLayer.json, curLayer.scale);
                 } else {
-                    $.getJSON('data/' + curLayer.data, function(d) {
+                    $.getJSON(curLayer.data, function(d) {
                         addMarkers(d, layers[id].scale);
                         layers[id].json = d;
                     });
@@ -141,7 +142,7 @@ $(function() {
             
             if (key) {
                 markers.factory(
-                    clustr.scale_factory(function(f) {
+                    clustr.scale_factory(function(f) {      /* Adding marker scales, totalrepop and num_partners are hardcoded here*/
                             if (key === 'totalrefpop') {
                                 var radius = clustr.area_to_radius(Math.round(f.properties[key]/100));
                                 return (radius < 3) ? 5 : radius;
@@ -150,7 +151,6 @@ $(function() {
                             }
                         },
                         'rgba(61,150,206,0.6)',
-                        //'rgba(48,103,186,0.6)',
                         '#FFF'
                     )
                 );
@@ -214,7 +214,7 @@ $(function() {
     mapbox.share().map('map').add();
     
     var tooltip = {
-        population: function(f) {
+        population: function(f) {               /* Setting tooltip style for population layer */
             var o = '', p = f.properties;
             
             var total = p.totalrefpop,
@@ -294,7 +294,7 @@ $(function() {
               
             return o;
         },
-        relief: function(f) {
+        relief: function(f) {                   /* Setting the Relief layer tooltip, uses Google Charts API */
             var o = '', p = f.properties;
 
             var tot = [
@@ -342,8 +342,8 @@ $(function() {
                 
                 tree.draw(data, {
                     minColor: '#eaeaea',
-                    midColor: '#8ec2e2', //'rgb(117,206,255)', //'#ccc',
-                    maxColor: '#2b7bac', //'rgb(61,150,206)', //'#3067BA',
+                    midColor: '#8ec2e2', 
+                    maxColor: '#2b7bac', 
                     headerHeight: 0,
                     fontColor: '#282828',
                     fontSize: 9,
@@ -363,12 +363,11 @@ $(function() {
   
             return container;
         },
-        infrastructure: function(f) {
+        infrastructure: function(f) {               /* Setting the infrastructure tooltip style */
             var o = '', p = f.properties;
             o += '<div class="marker-title">' + p.name + '</div>';
             o += '<div class="marker-stats">'
               +     '<div class="marker-stat-label">' + p.type + '</div>'
-              //+     '<div class="marker-stat-value">' + formalNumber(total) + ' individuals</div>'
               +  '</div>';    
   
             return o;

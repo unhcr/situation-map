@@ -343,7 +343,6 @@ a:focus {
   border-color: #606060;
 }
 .marker-popup:after {
-  /*border-top-color: #121212;*/
   border: none;
 }
 .marker-popup:before {
@@ -401,13 +400,9 @@ td.bar.male > div {
 }
 td.bar > div {
   height: 10px;
-  /*background: #5B6461;*/
-  /*background: #4b6ea2;*/
   background: #2b7bac;
 }
 td.bar.female > div {
-  /*background: #AAABA3;*/
-  /*background: #6fa6cd;*/
   background: #8ec2e2;
 }
 .marker-pop-chart .agerange {
