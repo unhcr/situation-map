@@ -16,7 +16,7 @@ $(function() {
             },
             {
                 title: 'Relief Activities',
-                data: 'http://developmentseed.org/unhcr-situation/data/unhcr-relief-3w-mali.json&callback=?',
+                data: 'data/unhcr-relief-3w-mali.geojson',
                 scale: 'num_partners',
                 tooltip: 'relief'
             },
@@ -26,12 +26,12 @@ $(function() {
             },
             {
                 title: 'Border Crossings',
-                data: 'unhcr-infrastructure-border-crossing-mali.geojson',
+                data: 'data/unhcr-infrastructure-border-crossing-mali.geojson',
                 tooltip: 'infrastructure'
             },
             {
                 title: 'Infrastructure',
-                data: null,                 // a null value will grey out the button in the menu
+                data: null,
                 tooltip: 'infrastructure'
             },
             {
@@ -39,11 +39,13 @@ $(function() {
                 map: 'unhcr.unhcr-global-offices'
             }
         ],
-        basemap = {         // Sets up the base map toggle
+        basemap = {  
+            // Sets up the base map toggle       
             satellite: 'unhcr.map-zdgpcmtu,unhcr.unhcr-global-emergency-countries', 
             terrain: 'unhcr.map-0wl8cuf8,unhcr.unhcr-global-emergency-countries' 
         },
-        borders = {         //Sets up the borders toggle
+        borders = {         
+            //Sets up the borders toggle
             un: 'unhcr.Borders,unhcr.unhcr-situation-border-buffer',
             streets: 'unhcr.map-9hudy8xp' 
         },
@@ -140,9 +142,10 @@ $(function() {
             markers.sort(function(a,b){ return b.properties[key] - a.properties[key]; })
                 .features(data.features);
             
+            // Adding marker scales, totalrepop and num_partners are hardcoded here
             if (key) {
                 markers.factory(
-                    clustr.scale_factory(function(f) {      // Adding marker scales, totalrepop and num_partners are hardcoded here
+                    clustr.scale_factory(function(f) {      
                             if (key === 'totalrefpop') {
                                 var radius = clustr.area_to_radius(Math.round(f.properties[key]/100));
                                 return (radius < 3) ? 5 : radius;
@@ -214,7 +217,8 @@ $(function() {
     mapbox.share().map('map').add();
     
     var tooltip = {
-        population: function(f) {               // Setting tooltip style for population layer
+        // Setting tooltip style for population layer
+        population: function(f) {               
             var o = '', p = f.properties;
             
             var total = p.totalrefpop,
@@ -294,7 +298,8 @@ $(function() {
               
             return o;
         },
-        relief: function(f) {                   // Setting the Relief layer tooltip, uses Google Charts API 
+        relief: function(f) {            
+            // Setting the Relief layer tooltip, uses Google Charts API 
             var o = '', p = f.properties;
 
             var tot = [
@@ -363,7 +368,8 @@ $(function() {
   
             return container;
         },
-        infrastructure: function(f) {               // Setting the infrastructure tooltip style 
+        infrastructure: function(f) { 
+            // Setting the infrastructure tooltip style 
             var o = '', p = f.properties;
             o += '<div class="marker-title">' + p.name + '</div>';
             o += '<div class="marker-stats">'
