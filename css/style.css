@@ -314,15 +314,17 @@ a:focus {
   -ms-transform: translate(0,0) !important;
   -o-transform: translate(0,0) !important;
   position: absolute;
-  right: auto;
-  top: auto;
+  right: 98px;
   left: 10px;
-  bottom: 10px;
   z-index: 9999;
 }
 .marker-tooltip>div {
-  bottom: 0 !important;
-  left: 0;
+  right:98px;
+  top: 10px;
+}
+.wax-tooltip{
+  right: 98px!important;
+  left: auto!important;
 }
 .marker-popup, .map-tooltip {
   background: url(../img/dark-bg.png) 0 0 repeat;
@@ -411,6 +413,7 @@ td.bar.female > div {
 }
 
 /* Fullscreen */
+/* Added when fullscreen is active */
 .map-fullscreen {
   top: auto;
   left: auto;
@@ -466,7 +469,15 @@ td.bar.female > div {
 }
 #fs.active .marker-tooltip>div {
   top: 320px !important;
+  left: 0px !important;
 }
+#fs.active .fs-treetip {
+  top: 320px !important;
+  left: 331px !important;
+  right: auto !important;
+}
+
+/* Treemap for Relief Activites layer */
 
 #treemap {
   padding: 0 7px;

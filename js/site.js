@@ -1,6 +1,10 @@
 //Function waits til page loads to run
 $(function() {
     // Create a layers menu from a list of layers, assigns menu items in order with specified data.
+    // If geojson layer and a scaled marker: use data: + scale: 
+    // If geojson layer and icon: use data: 
+    // If MapBox layer: use map: 
+    // Use tooltip: to add interactivity, set tooltip below at var = tooltip
     var layers = [
             {
                 title: 'Refugee Populations',
@@ -31,7 +35,7 @@ $(function() {
             },
             {
                 title: 'Infrastructure',
-                data: null,
+                data: null, /* Set to null if there is no data available */
                 tooltip: 'infrastructure'
             },
             {
@@ -82,7 +86,7 @@ $(function() {
         m.addLayer(mapbox.layer().id(basemap.terrain));
         m.addLayer(mapbox.layer().id(borders.un).composite(false));
         (embed) ? m.zoom(5) : m.zoom(5);
-        m.center({ lat: 15, lon: -5 }).setZoomRange(2,12);
+        m.center({ lat: 15, lon: -5 }).setZoomRange(2,12); /* Set center and zoom range */
         m.ui.zoomer.add();
         m.ui.attribution.add()
             .content('<a href="http://mapbox.com/about/maps">Terms &amp; Feedback</a>');
@@ -102,6 +106,7 @@ $(function() {
         
         var layerCnt = tileLayers.length + 2;
         
+        // Updates basemap on toggle 
         function updateBasemap(type,toggle) {
             if (type === 'basemap') {
                 m.getLayerAt(0).id(basemap[toggle]);
@@ -137,12 +142,12 @@ $(function() {
             }
         }
         
-        function addMarkers(data, key) {
-            //Might need to create separate marker layers for icons/scaled-dots. When features get updated, we get 404 for previous img.src if layers are of different types
+        function addMarkers(data, key) {            
             markers.sort(function(a,b){ return b.properties[key] - a.properties[key]; })
                 .features(data.features);
             
             // Adding marker scales, totalrepop and num_partners are hardcoded here
+            // Uses the cluster.min.js library to draw the markers and scale according to data values 
             if (key) {
                 markers.factory(
                     clustr.scale_factory(function(f) {      
@@ -153,8 +158,8 @@ $(function() {
                                 return clustr.area_to_radius(Math.round(Math.pow(f.properties[key],1.5)*30));
                             }
                         },
-                        'rgba(61,150,206,0.6)',
-                        '#FFF'
+                        'rgba(61,150,206,0.6)', /* Color of markers*/
+                        '#FFF' /* Outline color of markers*/
                     )
                 );
             } else {
@@ -216,6 +221,7 @@ $(function() {
     
     mapbox.share().map('map').add();
     
+    // Set tooltips for each layer 
     var tooltip = {
         // Setting tooltip style for population layer
         population: function(f) {               
@@ -336,7 +342,8 @@ $(function() {
                     $('#treetip .treetip-partners').html(partners);
                     // show the treemap tooltip
                     $('#treetip').show();
-                    $('#treetip').css({left: 331,bottom: 10});
+                    $('#treetip').css({right: 409,top: 10});
+                    $('#treetip').addClass("fs-treetip");
                     
                     $('#treemap g:last-child rect').css('stroke-width','0');
                 });
