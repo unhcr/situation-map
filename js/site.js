@@ -6,32 +6,51 @@ $(function() {
     // If MapBox layer: use map: 
     // Use tooltip: to add interactivity, set tooltip below at var = tooltip
     var layers = [
-
             {
-                title: 'Schools',
-                map: 'unhcr.infrajordaneduc'
+                title: 'Refugee Populations',
+                data: 'data/unhcr-refugees-bysettlement-mali.geojson',
+                scale: 'totalrefpop',
+                tooltip: 'population',
+                active: true /* Sets this layer as the default layer. */
             },
             {
-                title: 'Health Centers',
-                map: 'unhcr.infra-jordan'
+                title: 'Settlement Locations',
+                data: 'data/unhcr-refugees-bysettlement-mali.geojson',
+                tooltip: 'population'
             },
             {
-                title: 'Hospitals',
-                map: 'unhcr.infrajordanhospital'
+                title: 'Relief Activities',
+                data: 'data/unhcr-relief-3w-mali.geojson',
+                scale: 'num_partners',
+                tooltip: 'relief'
+            },
+            {
+                title: 'Population Flow',
+                map: 'unhcr.pop_flow'
+            },
+            {
+                title: 'Border Crossings',
+                data: 'data/unhcr-infrastructure-border-crossing-mali.geojson',
+                tooltip: 'infrastructure'
+            },
+            {
+                title: 'Infrastructure',
+                data: null, /* Set to null if there is no data available */
+                tooltip: 'infrastructure'
             },
             {
                 title: 'UNHCR Offices',
-                map: 'unhcr.UNHCR-Offices'
+                map: 'unhcr.unhcr-global-offices'
             }
         ],
         basemap = {  
             // Sets up the base map toggle       
-            satellite: 'unhcr.map-zdgpcmtu', 
-            terrain: 'unhcr.map-0wl8cuf8' 
+            satellite: 'unhcr.map-zdgpcmtu,unhcr.unhcr-global-emergency-countries', 
+            terrain: 'unhcr.map-0wl8cuf8,unhcr.unhcr-global-emergency-countries' 
         },
         borders = {         
             //Sets up the borders toggle
-            un: 'unhcr.Borders',
+            un: 'unhcr.Borders,unhcr.unhcr-situation-border-buffer',
             streets: 'unhcr.map-9hudy8xp' 
         },
         markers = mapbox.markers.layer(),
@@ -67,10 +86,10 @@ $(function() {
         m.addLayer(mapbox.layer().id(basemap.terrain));
         m.addLayer(mapbox.layer().id(borders.un).composite(false));
         (embed) ? m.zoom(5) : m.zoom(5);
-        m.center({ lat: 31.59809, lon: 36.36304 }).setZoomRange(7,13); /* Set center and zoom range */
+        m.center({ lat: 15, lon: -5 }).setZoomRange(2,12); /* Set center and zoom range */
         m.ui.zoomer.add();
         m.ui.attribution.add()
-            .content('This map was produced as a reference aid only. The boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the United Nations.');
+            .content('<a href="http://mapbox.com/about/maps">Terms &amp; Feedback</a>');
         
         $.each(layer, function(i,l) {
             m.addLayer(l.layer.composite(false));
